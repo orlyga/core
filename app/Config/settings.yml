@@ -1,0 +1,83 @@
+---
+Comment.date_time_format: M d, Y
+Comment.email_notification: 1
+Comment.feed_limit: 10
+Comment.level: 1
+Croogo.version: 1.4.4
+Hook.bootstraps: Tinymce,Photon,AjaxMultiUpload,Seo
+Meta.description: 'Croogo - A CakePHP powered Content Management System'
+Meta.generator: 'Croogo - Content Management System'
+Meta.keywords: croogo, Croogo
+Meta.robots: index, follow
+Photon.album_limit_pagination: 10
+Photon.bgcolor: F5F5F5
+Photon.largheight: 350
+Photon.largwidth: 525
+Photon.max_height_thumb: 80
+Photon.max_width: 500
+Photon.max_width_thumb: 120
+Photon.quality: 90
+Reading.date_time_format: D, M d Y H:i:s
+Reading.nodes_per_page: 5
+Seo.add_copy_link: 1
+Seo.add_copy_link_ga_campaign_tags: 1
+Seo.add_rss_ga_campaign_tags: 1
+Seo.adwords_conversion_color_contact: 
+Seo.adwords_conversion_format_contact: 
+Seo.adwords_conversion_key_contact: 
+Seo.adwords_conversion_label_contact: 
+Seo.adwords_conversion_language_contact: 
+Seo.adwords_conversion_value_contact: 
+Seo.alexa_verification_key: 
+Seo.bing_webmaster_tools_key: 
+Seo.changefreq: weekly
+Seo.copy_link_ga_campaign_name: CutNPaste
+Seo.copy_link_ga_medium: copylink
+Seo.copy_link_text: 'Read more at: {{current_page}} Copyright &copy; {{site_title}}'
+Seo.facebook_app_key: 
+Seo.facebook_app_secret: 
+Seo.facebook_link: 
+Seo.google_adwords_tracking_for_messages: 
+Seo.google_analytics_domain: your-site.com
+Seo.google_analytics_ua: UA-1-XXXXXXXXX
+Seo.google_places_cid: 
+Seo.google_plus_cid: 
+Seo.google_tag_manager: XXXX-XXXX
+Seo.google_webmaster_tools_key: 
+Seo.homepage_description: 'עץ השני - הכניסו תאור עבור גוגל'
+Seo.homepage_title: עץ השני
+Seo.hook_facebook: 0
+Seo.hook_google: 0
+Seo.hook_twitter: 0
+Seo.insert_meta_description: 1
+Seo.insert_meta_keywords: 1
+Seo.insert_meta_robots: 1
+Seo.meta_robots_default: שלטים, שלטי עץ
+Seo.organize_by_vocabulary: 1
+Seo.priority: 0.8
+Seo.remove_settings_on_deactivate: NO
+Seo.rss_after: 
+Seo.rss_before: 
+Seo.rss_ga_campaign_name: RSSFeed
+Seo.rss_ga_medium: rssfeed
+Seo.show_per_page_stats: 0
+Seo.turn_off_promote_by_default: 1
+Seo.twitter_access_token: 
+Seo.twitter_access_token_secret: 
+Seo.twitter_consumer_key: 
+Seo.twitter_consumer_secret: 
+Seo.twitter_username: 
+Seo.version: 1.0
+Service.akismet_key: your-key
+Service.akismet_url: http://your-blog.com
+Service.recaptcha_private_key: your-private-key
+Service.recaptcha_public_key: your-public-key
+Site.email: you@your-site.com
+Site.feed_url: 
+Site.locale: iw
+Site.status: 1
+Site.tagline: 
+Site.theme: Elegant
+Site.timezone: 0
+Site.title: עץ השני
+Writing.wysiwyg: 1

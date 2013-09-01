@@ -1,0 +1,102 @@
+2013-06-12 12:40:57 Notice: Notice (8): Use of undefined constant filename - assumed 'filename' in [/home/content/68/10766768/html/usr/lib/cp2.1/app/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 56]
+Trace:
+UploadsController::upload() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - /home/content/68/10766768/html/orlyreznik/app/webroot/index.php, line 101
+
+2013-06-12 12:41:30 Notice: Notice (8): Use of undefined constant filename - assumed 'filename' in [/home/content/68/10766768/html/usr/lib/cp2.1/app/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 57]
+Trace:
+UploadsController::upload() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - /home/content/68/10766768/html/orlyreznik/app/webroot/index.php, line 101
+
+2013-06-12 13:07:40 Notice: Notice (8): Undefined variable: relPath in [/home/content/68/10766768/html/usr/lib/cp2.1/app/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 64]
+Trace:
+UploadsController::_resize() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 64
+UploadsController::upload() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - /home/content/68/10766768/html/orlyreznik/app/webroot/index.php, line 101
+
+2013-06-12 13:07:40 Notice: Notice (8): Undefined variable: relPath in [/home/content/68/10766768/html/usr/lib/cp2.1/app/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 66]
+Trace:
+UploadsController::_resize() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 66
+UploadsController::upload() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - /home/content/68/10766768/html/orlyreznik/app/webroot/index.php, line 101
+
+2013-06-12 13:08:27 Notice: Notice (8): Undefined variable: relPath in [/home/content/68/10766768/html/usr/lib/cp2.1/app/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 64]
+Trace:
+UploadsController::_resize() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 64
+UploadsController::upload() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - /home/content/68/10766768/html/orlyreznik/app/webroot/index.php, line 101
+
+2013-06-12 13:09:47 Notice: Notice (8): Undefined variable: relPath in [/home/content/68/10766768/html/usr/lib/cp2.1/app/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 64]
+Trace:
+UploadsController::_resize() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 64
+UploadsController::upload() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - /home/content/68/10766768/html/orlyreznik/app/webroot/index.php, line 101
+
+2013-06-12 13:11:24 Notice: Notice (8): Undefined variable: relPath in [/home/content/68/10766768/html/usr/lib/cp2.1/app/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 65]
+Trace:
+UploadsController::_resize() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 65
+UploadsController::upload() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - /home/content/68/10766768/html/orlyreznik/app/webroot/index.php, line 101
+
+2013-06-12 13:11:59 Notice: Notice (8): Undefined variable: relPath in [/home/content/68/10766768/html/usr/lib/cp2.1/app/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 65]
+Trace:
+UploadsController::_resize() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 65
+UploadsController::upload() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - /home/content/68/10766768/html/orlyreznik/app/webroot/index.php, line 101
+
+2013-06-12 13:12:46 Notice: Notice (8): Undefined variable: relPath in [/home/content/68/10766768/html/usr/lib/cp2.1/app/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 65]
+Trace:
+UploadsController::_resize() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 65
+UploadsController::upload() - APP/Plugin/AjaxMultiUpload/Controller/UploadsController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - /home/content/68/10766768/html/orlyreznik/app/webroot/index.php, line 101
+
+2013-08-23 04:32:09 Notice: Notice (8): Undefined index: extra-footer in [/home/content/68/10766768/html/orlyreznik/app/webroot/Themed/Elegant/Layouts/default.ctp, line 319]
+Trace:
+include - /home/content/68/10766768/html/orlyreznik/app/webroot/Themed/Elegant/Layouts/default.ctp, line 319
+View::_evaluate() - CORE/Cake/View/View.php, line 947
+View::_render() - CORE/Cake/View/View.php, line 909
+View::renderLayout() - CORE/Cake/View/View.php, line 534
+View::render() - CORE/Cake/View/View.php, line 478
+Controller::render() - CORE/Cake/Controller/Controller.php, line 947
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 273
+ExceptionRenderer::_cakeError() - CORE/Cake/Error/ExceptionRenderer.php, line 197
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 175
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 122
+[main] - [internal], line ??
+

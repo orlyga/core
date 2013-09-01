@@ -1,0 +1,428 @@
+div {
+		/*display:block;*/
+	}
+	#gallery {
+text-align:center;	
+width:60%;
+margin-bottom: -20px;
+margin-left:auto;
+margin-right:auto;
+position:relative;
+	-moz-box-shadow: 4px 7px 15px rgb(109, 88, 59);
+-webkit-box-shadow: 4px 7px 15px rgb(109, 88, 59);
+box-shadow: 4px 7px 15px rgb(109, 88, 59);
+	}
+	
+
+a.big{
+			display:inline;
+}
+a.big___old{
+	width: 500px;
+	/* CSS HACK */
+		width: 500px;	/* IE 5.x */
+		width/* */:/**/500px;	/* Other browsers */
+		width: /**/500px;
+			display:inline;
+}
+#imgdesc span.fld_name{
+	color: #9C3218;
+	font-weight:bold;
+	vertical-align:top;
+}
+#desctable td{
+	vertical-align:top;
+	
+}
+#imgdesc span.fld_value{
+	font-size:10px;
+	padding-left:5px;
+}
+#imgdesc h6{
+	color: #9C3218;
+}
+#imgdesc,#add_cart_button{
+display: block;
+left: -55%;
+position: absolute;
+	direction:rlt;
+	text-align:right;
+margin-left: 10px;
+margin-top:-50px;
+ z-index:999;
+}	
+#imgdesc{
+	font-size: 11px;
+padding: 5px;
+top: 100px;
+	width: 45%;
+	top: 100px;
+-webkit-box-shadow: 4px 7px 15px rgb(109, 88, 59);
+background-color: rgb(225, 217, 240);
+
+}
+#add_cart_button{
+top: 50px;
+}
+#imgdesc p {
+	direction:rlt;
+	text-align:right;
+}
+
+#thumbs-div {
+	position:absolute;
+	width:200%;
+	margin-left:-37.5%;
+	z-index:999;
+	bottom:10px;
+	
+}
+#thumbs-div:after{
+	
+}
+#more-thumbs {
+position:absolute;
+bottom:-130px;
+width: 87.5%;
+}
+#more-thumbs img{
+width:100%;
+}
+ .box14{
+    margin: 40px auto;
+    padding: 10px;
+    position:relative;
+    background-color: #ffffff;
+    background: -webkit-gradient(linear, 0% 20%, 0% 92%, from(#fff), to(#f3f3f3), color-stop(.1,#fff));
+   background-image: -webkit-linear-gradient(top, #ffffff, #f3f3f3);
+	background-image: -moz-linear-gradient(top, #ffffff, #f3f3f3);
+	background-image: -o-linear-gradient(top, #ffffff, #f3f3f3);
+	background-image: -ms-linear-gradient(top, #ffffff, #f3f3f3);
+	background-image: linear-gradient(top, #ffffff, #f3f3f3);
+     border: 1px solid #ccc;
+    -webkit-border-radius: 10px 60px;
+    -webkit-box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.1) ;
+}
+
+ .box14:before{
+    content: '';
+    width: 50px;
+    height: 50px;
+    top:0; right:0;
+    position:absolute;
+    display: inline-block;
+    z-index:-1;
+    -webkit-box-shadow: 10px -10px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 10px -10px 8px rgba(0, 0, 0, 0.2);
+    -webkit-transform: rotate(2deg) translate(-14px,20px) skew(-20deg);
+    -moz-transform: rotate(2deg) translate(-14px,20px) skew(-20deg);
+	-o-transform: rotate(2deg) translate(-14px,20px) skew(-20deg);
+	-ms-transform: rotate(2deg) translate(-14px,20px) skew(-20deg);
+	transform: rotate(2deg) translate(-14px,20px) skew(-20deg);
+}
+
+.box14:after{
+    content: '';
+    width: 100px;
+    height: 100px;
+    top:0; left:0;
+    position:absolute;
+    z-index:-1;
+    display: inline-block;
+    -webkit-box-shadow: -10px -10px 10px rgba(0, 0, 0, 0.2);
+    	box-shadow: -10px -10px 10px rgba(0, 0, 0, 0.2);
+    -webkit-transform: rotate(2deg)
+                        translate(20px,25px)
+                           skew(20deg);
+    -moz-transform: rotate(2deg) translate(20px,25px) skew(20deg);
+	-o-transform: rotate(2deg) translate(20px,25px) skew(20deg);
+	-ms-transform: rotate(2deg) translate(20px,25px) skew(20deg);
+	transform: rotate(2deg) translate(20px,25px) skew(20deg);
+}
+
+.effect7
+{
+      position:relative;       
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+
+}
+
+.effect7:before, .effect7:after
+{
+    content:"";
+    position:absolute; 
+    z-index:-1;
+    -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:0 0 20px rgba(0,0,0,0.8);
+    top:0;
+    bottom:0;
+    left:10px;
+    right:10px;
+    -moz-border-radius:100px / 10px;
+    border-radius:100px / 10px;
+} 
+
+.effect7:after
+{
+    right:10px; 
+    left:auto;
+    -webkit-transform:skew(8deg) rotate(3deg); 
+       -moz-transform:skew(8deg) rotate(3deg);     
+        -ms-transform:skew(8deg) rotate(3deg);     
+         -o-transform:skew(8deg) rotate(3deg); 
+            transform:skew(8deg) rotate(3deg);
+}
+
+#imgbig,#image-page{
+	padding:0;
+	text-align:center;
+	overflow: hidden;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.4);
+    width:100%;
+}	
+	img.big {
+		width:100%;
+		display:inline;
+		vertical-align: top;}
+#image-page img.big{
+width:auto;
+}
+
+#categories_menu,#overlayer{
+	margin-top: -100px;
+	margin-right:auto;
+	margin-left:auto;
+	position:relative;
+	z-index:3;
+	width:80%;
+}
+#overlayer	{
+	direction:ltr;
+	margin-top: -10px;
+	z-index:1;
+}
+#albums_gallery{
+	position:relative;
+	margin-right:0;
+	margin-left:-10px;
+	padding-right:0;
+}
+
+ul#horizonal_thumb li img,ul#vertical_thumb li img{
+		border:3px solid white;	/* No border */
+		padding-top:1px;	/* Space between images */
+		max-width: 80px;
+		max-height: 80px;
+		/*box-shadow:1px 0px 10px #5D1E0E;
+		background-color:#7c2813;*/
+	}
+ul#vertical_thumb,ul#horizonal_thumb, ul#albums,ul#albums li,
+ul#vertical_thumb li ,ul#horizonal_thumb li{
+margin: 0;
+
+}
+ul#vertical_thumb {	/* Big Div surrounding up image, list of images and down image */
+		
+		padding-left:2px;	/* A little space between the black border and the content inside */
+
+		display:inline-block;
+	
+		
+			/* A little space between the black border and the content inside */
+width:90%;
+display:block;
+/*background-color:#a5462f;*/
+padding-bottom:7px;
+margin-right: auto;
+margin-left: auto;	
+		
+	}
+.node .node-body ul li {
+list-style-type: none;
+}
+ul#albums{
+		float:right;
+		display:inline-block;
+		margin-top: 50px;
+		height:400px;
+		vertical-align: top;
+		margin-right: -30px;
+	}
+	ul#albums li{
+		vertical-align: 25%;
+		list-style-image: none;
+		overflow:visible;
+		margin-top: 8px;
+}
+ul#albums li a{
+	margin-left:28px;
+	margin-top:15px;
+	text-decoration: none;
+	display:inline-block;
+	}
+
+ul#vertical_thumb li,ul#horizonal_thumb li {
+display: inline-block;
+max-width: 80px;
+padding:5px;
+padding-right:10px;
+}
+#extra_thumbs #horizonal_thumb li{
+padding-right:10px;
+padding-left:3px;
+}
+#horizonal_thumb {
+position:absolute;
+padding:5px;
+  min-height: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(138, 112, 207);
+  border: 1px solid #eee;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+itMessage{
+		display:none;
+		position:absolute;
+		left:200px;
+		top:180px;
+		padding:1px;
+		font-size:0.9em;
+		font-family:arial;
+	}
+	.thumb_containter {	/* Big Div surrounding up image, list of images and down image */
+		float:left;	/* Floating */
+
+		/* CSS HACK */
+		height: 385px;	/* IE 5.x - 120 px + 2 px for borders and 2px for padding*/
+		height/* */:/**/385px;	/* Other browsers */
+		height: /**/385px;
+
+		/* CSS HACK */
+		width: 150px;	/* IE 5.x - 120 px + 2 px for borders and 2px for padding*/
+		width/* */:/**/150px;	/* Other browsers */
+		width: /**/150px;
+		padding:1px;	/* A little space between the black border and the content inside */
+		position:relative;
+		margin:0;
+
+	}
+	
+	
+	.galleryContainer .arrow_down{	/* Arrow down image */
+		height:35px;
+		position:absolute;
+		bottom:0px;
+		z-index:100;
+	}
+	.galleryContainer .arrow_up{
+		height:35px;	/* Arrow up image */
+		position:absolute;
+		top:0px;
+		z-index:100;
+	}
+
+	.theImages{	/* DIV where the images are located */
+		top:35px;
+		position:absolute;
+		overflow:hidden;
+		height:385px;	/* Height of boxes for the images */
+	}
+	.theImages div{
+		position:relative;	/* Don't change this */
+		height:1500px;	/* Higher than total height of thumbnails */
+
+	}
+	
+	.theImages .imgOver {
+		filter:alpha(opacity=100);	/* Transparency - IE */
+		opacity:1; /* Transparency - Firefox */		
+		
+	}
+	.previewPane .largeImageCaption{	/* CSS styling of image caption below large image */
+		font-style:italic;
+		text-align:center;
+		font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;	/* Font to use */
+		font-size:0.9em;
+	}
+	.theImages .imageCaption{
+		display:none;
+	}
+	#node-6 {
+    margin-right: -4em;
+}
+img.flower {
+display: none;
+margin-top: -40px;
+}
+
+#gallery_title{
+width:100%; 
+background-color: rgb(225, 217, 240);
+}
+
+#menu-categories .categories-menu {font-weight:bold}
+#menu-categories  {display:inline;}
+#menu-categories li ul {
+position:relative;
+
+}
+#plain .dropdown-menu ,#plain-oneline .dropdown-menu {
+	float:none;
+	display:inline-block;
+	margin-right:-60px;
+}
+#menu-categories ul{
+	list-style:none;
+}
+#menu-categories #categories li > a{
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-size: 100%;
+vertical-align: baseline;
+box-shadow:none;
+background:transparent;
+font-family:inherit;
+color:inherit;
+display:inline;
+
+}
+#plain .dropdown-menu ,#plain-oneline .dropdown-menu {
+	float:none;
+	display:inline-block;
+	margin-right:-60px;
+}
+#plain-oneline a{
+	display:inline;
+	font-size:10px;
+	line-height:10px;
+	padding-right:5px;
+	padding-left:0px;
+}
+#plain-oneline li{
+	display:inline-block;
+	font-size:10px;
+	line-height:0;
+	padding-left:5px;
+}
+#plain-oneline ul {
+	position:relative
+}
+#expand_thumb {
+	width:87.5%;
+	position:absolute;
+	margin-top:100px;
+}
+

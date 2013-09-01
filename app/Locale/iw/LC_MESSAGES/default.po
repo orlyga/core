@@ -1,0 +1,3345 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-02-18 08:50+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: \Config\croogo_menus.php:4
+#: \Controller\NodesController.php:78
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_edit.ctp:18
+msgid "Content"
+msgstr "תוכן"
+
+#: \Config\croogo_menus.php:15;58
+msgid "List"
+msgstr ""
+
+#: \Config\croogo_menus.php:26
+#: \View\Filemanager\admin_create_directory.ctp:28
+#: \View\Filemanager\admin_create_file.ctp:29
+msgid "Create"
+msgstr ""
+
+#: \Config\croogo_menus.php:37
+msgid "Content Types"
+msgstr ""
+
+#: \Config\croogo_menus.php:48
+#: \View\Types\admin_add.ctp:7
+#: \View\Types\admin_edit.ctp:7
+msgid "Taxonomy"
+msgstr ""
+
+#: \Config\croogo_menus.php:68;138
+msgid "Add new"
+msgstr "הוסף"
+
+#: \Config\croogo_menus.php:82
+#: \Controller\CommentsController.php:64;180
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:45
+#: \View\Elements\comments.ctp:7
+#: \View\Elements\node_more_info.ctp:32
+#: \View\Nodes\admin_add.ctp:9
+#: \View\Nodes\admin_edit.ctp:9
+#: \View\Themed\elegant\Elements\comments.ctp:7
+#: \View\Themed\elegant\Elements\node_more_info.ctp:33
+#: \View\Types\admin_add.ctp:9
+#: \View\Types\admin_edit.ctp:9
+msgid "Comments"
+msgstr ""
+
+#: \Config\croogo_menus.php:91
+#: \View\Comments\admin_edit.ctp:16
+#: \View\Comments\admin_index.ctp:4
+#: \View\Elements\admin\nodes_filter.ctp:26
+#: \View\Nodes\admin_add.ctp:88
+#: \View\Nodes\admin_edit.ctp:88
+#: \View\Themed\elegant\Elements\admin\nodes_filter.ctp:26
+msgid "Published"
+msgstr "פורסם"
+
+#: \Config\croogo_menus.php:101
+#: \View\Comments\admin_index.ctp:5
+msgid "Approval"
+msgstr "מאושר"
+
+#: \Config\croogo_menus.php:118;128
+#: \Controller\MenusController.php:39
+msgid "Menus"
+msgstr "תפריטים"
+
+#: \Config\croogo_menus.php:152;162
+#: \Controller\BlocksController.php:39
+msgid "Blocks"
+msgstr ""
+
+#: \Config\croogo_menus.php:171
+msgid "Regions"
+msgstr ""
+
+#: \Config\croogo_menus.php:183
+msgid "Media"
+msgstr ""
+
+#: \Config\croogo_menus.php:193
+#: \Controller\AttachmentsController.php:91
+msgid "Attachments"
+msgstr "מצורפים"
+
+#: \Config\croogo_menus.php:202
+#: \Controller\FilemanagerController.php:124
+msgid "File Manager"
+msgstr ""
+
+#: \Config\croogo_menus.php:214;224
+#: \Controller\ContactsController.php:51
+msgid "Contacts"
+msgstr "אנשי קשר"
+
+#: \Config\croogo_menus.php:233
+#: \Controller\MessagesController.php:39
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:61
+msgid "Messages"
+msgstr "הודעות"
+
+#: \Config\croogo_menus.php:245;255
+#: \Controller\UsersController.php:90;230
+msgid "Users"
+msgstr ""
+
+#: \Config\croogo_menus.php:265
+#: \Controller\RolesController.php:39
+msgid "Roles"
+msgstr ""
+
+#: \Config\croogo_menus.php:278
+#: \Controller\SettingsController.php:57
+#: \Plugin\Photon\View\Albums\admin_edit.ctp:81
+#: \Plugin\Photon\View_cochav\albums\admin_edit.ctp:15
+#: \View\Settings\admin_add.ctp:6
+#: \View\Settings\admin_edit.ctp:6
+msgid "Settings"
+msgstr "הגדרות"
+
+#: \Config\croogo_menus.php:289
+msgid "Site"
+msgstr "אתר"
+
+#: \Config\croogo_menus.php:301
+msgid "Meta"
+msgstr ""
+
+#: \Config\croogo_menus.php:313
+msgid "Reading"
+msgstr ""
+
+#: \Config\croogo_menus.php:325
+msgid "Writing"
+msgstr ""
+
+#: \Config\croogo_menus.php:337
+#: \View\Comments\admin_edit.ctp:6
+#: \View\Elements\comments.ctp:5
+#: \View\Elements\node_more_info.ctp:30
+#: \View\Themed\elegant\Elements\comments.ctp:5
+#: \View\Themed\elegant\Elements\node_more_info.ctp:31
+msgid "Comment"
+msgstr ""
+
+#: \Config\croogo_menus.php:349
+msgid "Service"
+msgstr ""
+
+#: \Config\croogo_menus.php:361
+#: \Controller\LanguagesController.php:39
+msgid "Languages"
+msgstr ""
+
+#: \Console\Command\CroogoShell.php:24
+msgid "Croogo Utilities"
+msgstr ""
+
+#: \Console\Command\ExtShell.php:97
+msgid "%s \"%s\" not found."
+msgstr "%s \"%s\" לא נמצא."
+
+#: \Console\Command\ExtShell.php:108
+msgid "Activate Plugins & Themes"
+msgstr ""
+
+#: \Console\Command\ExtShell.php:111
+msgid "Method to perform"
+msgstr ""
+
+#: \Console\Command\ExtShell.php:116
+#: \Console\Command\InstallShell.php:134
+msgid "Extension type"
+msgstr ""
+
+#: \Console\Command\ExtShell.php:121
+msgid "Name of extension"
+msgstr ""
+
+#: \Console\Command\ExtShell.php:135
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:153
+msgid "Plugin \"%s\" activated successfully."
+msgstr ""
+
+#: \Console\Command\ExtShell.php:140
+#: \Plugin\Extensions\Lib\CroogoPlugin.php:314
+msgid "Plugin \"%s\" could not be activated. Please, try again."
+msgstr ""
+
+#: \Console\Command\ExtShell.php:154
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:144
+msgid "Plugin \"%s\" deactivated successfully."
+msgstr ""
+
+#: \Console\Command\ExtShell.php:159
+msgid "Plugin \"%s\" could not be deactivated. Please, try again."
+msgstr ""
+
+#: \Console\Command\ExtShell.php:173
+msgid "Theme deactivated successfully."
+msgstr ""
+
+#: \Console\Command\ExtShell.php:175
+msgid "Theme \"%s\" activated successfully."
+msgstr ""
+
+#: \Console\Command\ExtShell.php:178
+msgid "Theme \"%s\" activation failed."
+msgstr ""
+
+#: \Console\Command\InstallShell.php:79
+msgid "Installing with Composer..."
+msgstr ""
+
+#: \Console\Command\InstallShell.php:87
+msgid "Unexpected composerInstall return value"
+msgstr ""
+
+#: \Console\Command\InstallShell.php:100
+msgid "Package installed and activated."
+msgstr ""
+
+#: \Console\Command\InstallShell.php:102
+msgid "Package installed but not activated."
+msgstr ""
+
+#: \Console\Command\InstallShell.php:119
+msgid "Extension installed and activated."
+msgstr ""
+
+#: \Console\Command\InstallShell.php:131
+msgid "Download, Install & Activate Plugins & Themes"
+msgstr ""
+
+#: \Console\Command\InstallShell.php:139
+msgid "URL to zip file OR github user name"
+msgstr ""
+
+#: \Console\Command\InstallShell.php:143
+msgid "Github repo name"
+msgstr ""
+
+#: \Console\Command\InstallShell.php:174
+msgid "Installing extension..."
+msgstr ""
+
+#: \Console\Command\InstallShell.php:193
+msgid "Please specify a URL to a zipball extension"
+msgstr ""
+
+#: \Console\Command\InstallShell.php:198
+msgid "Downloading extension to %s..."
+msgstr ""
+
+#: \Controller\AppController.php:143
+msgid "Site down for maintenance"
+msgstr ""
+
+#: \Controller\AttachmentsController.php:105
+msgid "Add Attachment"
+msgstr "צרף"
+
+#: \Controller\AttachmentsController.php:114
+msgid "Upload failed. Please ensure size does not exceed the server limit."
+msgstr "נכשל, אנא ודא שהקובץ אינו גדול מדי"
+
+#: \Controller\AttachmentsController.php:151;180
+msgid "The Attachment has been saved"
+msgstr "נשמר"
+
+#: \Controller\AttachmentsController.php:159;183
+msgid "The Attachment could not be saved. Please, try again."
+msgstr "לא ניתן לשמור, אנא נסה שוב"
+
+#: \Controller\AttachmentsController.php:172
+msgid "Edit Attachment"
+msgstr "ערוך"
+
+#: \Controller\AttachmentsController.php:175
+msgid "Invalid Attachment"
+msgstr "לא חוקי"
+
+#: \Controller\AttachmentsController.php:200;217
+msgid "Invalid id for Attachment"
+msgstr ""
+
+#: \Controller\AttachmentsController.php:213
+msgid "Attachment deleted"
+msgstr "נמחק"
+
+#: \Controller\BlocksController.php:53
+msgid "Add Block"
+msgstr ""
+
+#: \Controller\BlocksController.php:60;93
+msgid "The Block has been saved"
+msgstr ""
+
+#: \Controller\BlocksController.php:67;100
+msgid "The Block could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\BlocksController.php:83
+msgid "Edit Block"
+msgstr ""
+
+#: \Controller\BlocksController.php:86
+msgid "Invalid Block"
+msgstr ""
+
+#: \Controller\BlocksController.php:125
+msgid "Invalid id for Block"
+msgstr ""
+
+#: \Controller\BlocksController.php:129
+msgid "Block deleted"
+msgstr ""
+
+#: \Controller\BlocksController.php:144
+#: \Controller\LanguagesController.php:121
+#: \Controller\LinksController.php:225
+#: \Controller\SettingsController.php:188
+#: \Controller\TermsController.php:326
+#: \Controller\VocabulariesController.php:127
+#: \Plugin\Photon\Controller\AlbumsController.php:168
+#: \Plugin\Photon\Controller\PhotosController.php:135
+msgid "Moved up successfully"
+msgstr "עלה מעלה בהצלחה"
+
+#: \Controller\BlocksController.php:146
+#: \Controller\LanguagesController.php:123
+#: \Controller\LinksController.php:227
+#: \Controller\SettingsController.php:190
+#: \Controller\TermsController.php:328
+#: \Controller\VocabulariesController.php:129
+#: \Plugin\Photon\Controller\AlbumsController.php:170
+#: \Plugin\Photon\Controller\PhotosController.php:137
+msgid "Could not move up"
+msgstr "לא ניתן להעלות למעלה"
+
+#: \Controller\BlocksController.php:162
+#: \Controller\LanguagesController.php:139
+#: \Controller\LinksController.php:258
+#: \Controller\SettingsController.php:206
+#: \Controller\TermsController.php:368
+#: \Controller\VocabulariesController.php:145
+#: \Plugin\Photon\Controller\AlbumsController.php:178
+#: \Plugin\Photon\Controller\PhotosController.php:147
+msgid "Moved down successfully"
+msgstr "ירד בהצלחה"
+
+#: \Controller\BlocksController.php:164
+#: \Controller\LanguagesController.php:141
+#: \Controller\LinksController.php:260
+#: \Controller\SettingsController.php:208
+#: \Controller\TermsController.php:370
+#: \Controller\VocabulariesController.php:147
+#: \Plugin\Photon\Controller\AlbumsController.php:180
+#: \Plugin\Photon\Controller\PhotosController.php:149
+msgid "Could not move down"
+msgstr "לא ניתן להוריד מטה"
+
+#: \Controller\BlocksController.php:186
+#: \Controller\CommentsController.php:153
+#: \Controller\LinksController.php:284
+#: \Controller\MessagesController.php:128
+#: \Controller\NodesController.php:383
+msgid "No items selected."
+msgstr "לא נבחר פריט"
+
+#: \Controller\BlocksController.php:192
+msgid "Blocks deleted."
+msgstr ""
+
+#: \Controller\BlocksController.php:195
+msgid "Blocks published"
+msgstr ""
+
+#: \Controller\BlocksController.php:198
+msgid "Blocks unpublished"
+msgstr ""
+
+#: \Controller\BlocksController.php:200
+#: \Controller\CommentsController.php:167
+#: \Controller\LinksController.php:313
+#: \Controller\MessagesController.php:142
+#: \Controller\NodesController.php:408
+#: \Controller\UsersController.php:295;357;368
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:161
+#: \Test\Case\Controller\UsersControllerTest.php:314
+msgid "An error occurred."
+msgstr "תקלה"
+
+#: \Controller\CakeErrorController.php:47
+msgid "Errors in CakeErrorController: %s"
+msgstr "תקלה : %s"
+
+#: \Controller\CommentsController.php:83
+msgid "Comments: Published"
+msgstr ""
+
+#: \Controller\CommentsController.php:85
+msgid "Comments: Approval"
+msgstr ""
+
+#: \Controller\CommentsController.php:100
+msgid "Edit Comment"
+msgstr ""
+
+#: \Controller\CommentsController.php:103
+msgid "Invalid Comment"
+msgstr ""
+
+#: \Controller\CommentsController.php:108
+msgid "The Comment has been saved"
+msgstr ""
+
+#: \Controller\CommentsController.php:111
+msgid "The Comment could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\CommentsController.php:128
+msgid "Invalid id for Comment"
+msgstr ""
+
+#: \Controller\CommentsController.php:132
+msgid "Comment deleted"
+msgstr ""
+
+#: \Controller\CommentsController.php:159
+msgid "Comments deleted."
+msgstr ""
+
+#: \Controller\CommentsController.php:162
+msgid "Comments published"
+msgstr ""
+
+#: \Controller\CommentsController.php:165
+msgid "Comments unpublished"
+msgstr ""
+
+#: \Controller\CommentsController.php:206;217
+msgid "Invalid Node"
+msgstr ""
+
+#: \Controller\CommentsController.php:224
+msgid "Maximum level reached. You cannot reply to that comment."
+msgstr ""
+
+#: \Controller\CommentsController.php:233
+msgid "Comments are not allowed."
+msgstr ""
+
+#: \Controller\CommentsController.php:280
+msgid "Your comment has been added successfully."
+msgstr ""
+
+#: \Controller\CommentsController.php:282
+msgid "Your comment will appear after moderation."
+msgstr ""
+
+#: \Controller\CommentsController.php:291
+msgid "New comment posted under"
+msgstr ""
+
+#: \Controller\CommentsController.php:326
+msgid "Sorry, the comment appears to be spam."
+msgstr ""
+
+#: \Controller\CommentsController.php:348
+#: \Controller\ContactsController.php:238
+msgid "Invalid captcha entry"
+msgstr ""
+
+#: \Controller\ContactsController.php:66
+msgid "Add Contact"
+msgstr "הוסף איש קשר"
+
+#: \Controller\ContactsController.php:71;95
+msgid "The Contact has been saved"
+msgstr "איש קשר נשמר"
+
+#: \Controller\ContactsController.php:74;98
+msgid "The Contact could not be saved. Please, try again."
+msgstr "לא ניתן לשמור, אנא נסה שוב"
+
+#: \Controller\ContactsController.php:87
+msgid "Edit Contact"
+msgstr "ערוך "
+
+#: \Controller\ContactsController.php:90
+msgid "Invalid Contact"
+msgstr "איש קשר לא חוקי"
+
+#: \Controller\ContactsController.php:115
+msgid "Invalid id for Contact"
+msgstr ""
+
+#: \Controller\ContactsController.php:119
+msgid "Contact deleted"
+msgstr "איש קשר נמחק"
+
+#: \Controller\ContactsController.php:169
+msgid "Your message has been received..."
+msgstr ""
+
+#: \Controller\ContactsController.php:217
+msgid "Sorry, the message appears to be spam."
+msgstr ""
+
+#: \Controller\ContactsController.php:258
+msgid "[%s] %s"
+msgstr ""
+
+#: \Controller\FilemanagerController.php:164
+msgid "Edit file: %s"
+msgstr ""
+
+#: \Controller\FilemanagerController.php:175
+msgid "File saved successfully"
+msgstr "קובץ נשמר בהצלחה"
+
+#: \Controller\FilemanagerController.php:191
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_add.ctp:15;21
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_index.ctp:6
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_add.ctp:15;21
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:7
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_add.ctp:15;21
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_index.ctp:6
+#: \View\Attachments\admin_add.ctp:18
+#: \View\Filemanager\admin_upload.ctp:30
+msgid "Upload"
+msgstr "העלאה"
+
+#: \Controller\FilemanagerController.php:204
+msgid "File uploaded successfully."
+msgstr "קובץ עלה בהצלחה"
+
+#: \Controller\FilemanagerController.php:230
+msgid "File deleted"
+msgstr "קובץ נמחק"
+
+#: \Controller\FilemanagerController.php:232;260;318;346
+msgid "An error occured"
+msgstr "קרתה תקלה"
+
+#: \Controller\FilemanagerController.php:258
+msgid "Directory deleted"
+msgstr ""
+
+#: \Controller\FilemanagerController.php:303
+msgid "New Directory"
+msgstr ""
+
+#: \Controller\FilemanagerController.php:314
+msgid "Directory created successfully."
+msgstr ""
+
+#: \Controller\FilemanagerController.php:332
+msgid "New File"
+msgstr ""
+
+#: \Controller\FilemanagerController.php:342
+msgid "File created successfully."
+msgstr ""
+
+#: \Controller\LanguagesController.php:53
+msgid "Add Language"
+msgstr ""
+
+#: \Controller\LanguagesController.php:58;82
+msgid "The Language has been saved"
+msgstr ""
+
+#: \Controller\LanguagesController.php:61;85
+msgid "The Language could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\LanguagesController.php:74
+msgid "Edit Language"
+msgstr ""
+
+#: \Controller\LanguagesController.php:77
+#: \Plugin\Translate\Controller\TranslateController.php:119
+msgid "Invalid Language"
+msgstr ""
+
+#: \Controller\LanguagesController.php:102
+msgid "Invalid id for Language"
+msgstr ""
+
+#: \Controller\LanguagesController.php:106
+msgid "Language deleted"
+msgstr ""
+
+#: \Controller\LanguagesController.php:161
+msgid "Select a language"
+msgstr ""
+
+#: \Controller\LinksController.php:68
+msgid "Links: %s"
+msgstr "קישור: %s"
+
+#: \Controller\LinksController.php:94
+msgid "Add Link"
+msgstr "הוסף קישור"
+
+#: \Controller\LinksController.php:105;144
+msgid "The Link has been saved"
+msgstr "קישור נשמחר"
+
+#: \Controller\LinksController.php:108;147
+msgid "The Link could not be saved. Please, try again."
+msgstr "קישור לא נשמר, אנא נסה שוב"
+
+#: \Controller\LinksController.php:127
+msgid "Edit Link"
+msgstr "ערוך קישור"
+
+#: \Controller\LinksController.php:130
+msgid "Invalid Link"
+msgstr "קישור לא חוקי"
+
+#: \Controller\LinksController.php:174;182;213;246
+msgid "Invalid id for Link"
+msgstr ""
+
+#: \Controller\LinksController.php:194
+msgid "Link deleted"
+msgstr "קישור נמחק"
+
+#: \Controller\LinksController.php:305
+msgid "Links deleted."
+msgstr "קישורים נמחקו"
+
+#: \Controller\LinksController.php:308
+msgid "Links published"
+msgstr ""
+
+#: \Controller\LinksController.php:311
+msgid "Links unpublished"
+msgstr ""
+
+#: \Controller\MenusController.php:53
+msgid "Add Menu"
+msgstr "הוסף תפריט"
+
+#: \Controller\MenusController.php:58;82
+msgid "The Menu has been saved"
+msgstr "תפריט נשמחר"
+
+#: \Controller\MenusController.php:61;85
+msgid "The Menu could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\MenusController.php:74
+msgid "Edit Menu"
+msgstr "ערוך תפריט"
+
+#: \Controller\MenusController.php:77
+msgid "Invalid Menu"
+msgstr ""
+
+#: \Controller\MenusController.php:102
+msgid "Invalid id for Menu"
+msgstr ""
+
+#: \Controller\MenusController.php:106
+msgid "Menu deleted"
+msgstr "תפריט נמחק"
+
+#: \Controller\MessagesController.php:58
+msgid "Messages: Read"
+msgstr ""
+
+#: \Controller\MessagesController.php:60
+msgid "Messages: Unread"
+msgstr ""
+
+#: \Controller\MessagesController.php:75
+msgid "Edit Message"
+msgstr ""
+
+#: \Controller\MessagesController.php:78
+msgid "Invalid Message"
+msgstr ""
+
+#: \Controller\MessagesController.php:83
+msgid "The Message has been saved"
+msgstr ""
+
+#: \Controller\MessagesController.php:86
+msgid "The Message could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\MessagesController.php:103
+msgid "Invalid id for Message"
+msgstr ""
+
+#: \Controller\MessagesController.php:107
+msgid "Message deleted"
+msgstr ""
+
+#: \Controller\MessagesController.php:134
+msgid "Messages deleted."
+msgstr ""
+
+#: \Controller\MessagesController.php:137
+msgid "Messages marked as read"
+msgstr ""
+
+#: \Controller\MessagesController.php:140
+msgid "Messages marked as unread"
+msgstr ""
+
+#: \Controller\NodesController.php:126
+#: \View\Nodes\admin_index.ctp:6
+msgid "Create content"
+msgstr "צור תוכן"
+
+#: \Controller\NodesController.php:146;223
+msgid "Content type does not exist."
+msgstr "סוג התוכן לא קיים"
+
+#: \Controller\NodesController.php:150
+msgid "Create content: %s"
+msgstr "צור תוכן:%s"
+
+#: \Controller\NodesController.php:180;252
+msgid "%s has been saved"
+msgstr "%s נשמר"
+
+#: \Controller\NodesController.php:187;259
+msgid "%s could not be saved. Please, try again."
+msgstr "%s לא נשמר,אנא נסה שוב."
+
+#: \Controller\NodesController.php:214;761;799
+msgid "Invalid content"
+msgstr "תוכן לא חוקי"
+
+#: \Controller\NodesController.php:227
+msgid "Edit content: %s"
+msgstr "ערוך תוכן: %s"
+
+#: \Controller\NodesController.php:319
+msgid "Paths updated."
+msgstr ""
+
+#: \Controller\NodesController.php:332
+msgid "Invalid id for Node"
+msgstr ""
+
+#: \Controller\NodesController.php:336
+msgid "Node deleted"
+msgstr "נמחק"
+
+#: \Controller\NodesController.php:390
+msgid "Nodes deleted."
+msgstr "נמחקו"
+
+#: \Controller\NodesController.php:394
+msgid "Nodes published"
+msgstr "פורסם"
+
+#: \Controller\NodesController.php:398
+msgid "Nodes unpublished"
+msgstr "הוצא מפירסום"
+
+#: \Controller\NodesController.php:402
+msgid "Nodes promoted"
+msgstr "קודם"
+
+#: \Controller\NodesController.php:406
+msgid "Nodes unpromoted"
+msgstr ""
+
+#: \Controller\NodesController.php:453;546;617;699
+msgid "Invalid content type."
+msgstr ""
+
+#: \Controller\NodesController.php:509
+msgid "Invalid Term."
+msgstr "מושג לא חוקי"
+
+#: \Controller\NodesController.php:593
+msgid "Nodes"
+msgstr "דפי תוכן"
+
+#: \Controller\NodesController.php:709
+msgid "Search Results: %s"
+msgstr "חיפוש תוצאות:%s"
+
+#: \Controller\RegionsController.php:39
+#: \View\Regions\admin_add.ctp:6
+#: \View\Regions\admin_edit.ctp:6
+msgid "Region"
+msgstr ""
+
+#: \Controller\RegionsController.php:54
+msgid "Add Region"
+msgstr ""
+
+#: \Controller\RegionsController.php:59;83
+msgid "The Region has been saved"
+msgstr ""
+
+#: \Controller\RegionsController.php:62;86
+msgid "The Region could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\RegionsController.php:75
+msgid "Edit Region"
+msgstr ""
+
+#: \Controller\RegionsController.php:78
+msgid "Invalid Region"
+msgstr ""
+
+#: \Controller\RegionsController.php:103
+msgid "Invalid id for Region"
+msgstr ""
+
+#: \Controller\RegionsController.php:107
+msgid "Region deleted"
+msgstr ""
+
+#: \Controller\RolesController.php:54
+msgid "Add Role"
+msgstr ""
+
+#: \Controller\RolesController.php:59;83
+msgid "The Role has been saved"
+msgstr ""
+
+#: \Controller\RolesController.php:62;86
+msgid "The Role could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\RolesController.php:75
+msgid "Edit Role"
+msgstr ""
+
+#: \Controller\RolesController.php:78
+msgid "Invalid Role"
+msgstr ""
+
+#: \Controller\RolesController.php:103
+msgid "Invalid id for Role"
+msgstr ""
+
+#: \Controller\RolesController.php:107
+msgid "Role deleted"
+msgstr ""
+
+#: \Controller\SettingsController.php:47
+#: \View\Elements\admin\header.ctp:5
+#: \View\Themed\elegant\Elements\admin\header.ctp:5
+msgid "Dashboard"
+msgstr "מערכת ניהול תוכן"
+
+#: \Controller\SettingsController.php:76
+msgid "Invalid Setting."
+msgstr "הגדרה לא חוקית"
+
+#: \Controller\SettingsController.php:89
+msgid "Add Setting"
+msgstr "הוסף הגדרה"
+
+#: \Controller\SettingsController.php:94;118
+msgid "The Setting has been saved"
+msgstr "הגדרות נשמרו"
+
+#: \Controller\SettingsController.php:97;121
+msgid "The Setting could not be saved. Please, try again."
+msgstr "הגדות לא נשמרו, אנא נסה שוב"
+
+#: \Controller\SettingsController.php:110
+#: \View\Settings\admin_view.ctp:43
+msgid "Edit Setting"
+msgstr "ערוך הגדרות"
+
+#: \Controller\SettingsController.php:113
+msgid "Invalid Setting"
+msgstr "הגדרה לא חוקית"
+
+#: \Controller\SettingsController.php:138
+msgid "Invalid id for Setting"
+msgstr ""
+
+#: \Controller\SettingsController.php:142
+msgid "Setting deleted"
+msgstr "הגדרה נמחקה"
+
+#: \Controller\SettingsController.php:155
+msgid "Settings: %s"
+msgstr "הגדרות : %s"
+
+#: \Controller\SettingsController.php:158
+msgid "Settings updated successfully"
+msgstr "הגדרות נשמרו בהצלחה"
+
+#: \Controller\SettingsController.php:172
+msgid "Invalid Setting key"
+msgstr ""
+
+#: \Controller\TermsController.php:63
+msgid "Invalid Vocabulary ID."
+msgstr ""
+
+#: \Controller\TermsController.php:69
+msgid "Vocabulary: %s"
+msgstr ""
+
+#: \Controller\TermsController.php:109
+msgid "%s: Add Term"
+msgstr ""
+
+#: \Controller\TermsController.php:119;223
+msgid "Term with same slug already exists in the vocabulary."
+msgstr ""
+
+#: \Controller\TermsController.php:132;237
+msgid "Term saved successfuly."
+msgstr ""
+
+#: \Controller\TermsController.php:138;243
+msgid "Term could not be added to the vocabulary. Please try again."
+msgstr ""
+
+#: \Controller\TermsController.php:142;247
+msgid "Term could not be saved. Please try again."
+msgstr ""
+
+#: \Controller\TermsController.php:198
+msgid "%s: Edit Term"
+msgstr "ערוך מושג: %s"
+
+#: \Controller\TermsController.php:267;307;348
+msgid "Invalid id for Term"
+msgstr ""
+
+#: \Controller\TermsController.php:286
+msgid "Term deleted"
+msgstr "מושג נמחק"
+
+#: \Controller\TermsController.php:288
+msgid "Term could not be deleted. Please, try again."
+msgstr "לא ניתן למחוק, אנא נסה שוב"
+
+#: \Controller\TypesController.php:52
+#: \View\Types\admin_add.ctp:6
+#: \View\Types\admin_edit.ctp:6
+msgid "Type"
+msgstr "סוג"
+
+#: \Controller\TypesController.php:67
+msgid "Add Type"
+msgstr "הוסף סוג"
+
+#: \Controller\TypesController.php:72;99
+msgid "The Type has been saved"
+msgstr "סוג נשמר"
+
+#: \Controller\TypesController.php:75;102
+msgid "The Type could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\TypesController.php:91
+msgid "Edit Type"
+msgstr "ערוך סוג"
+
+#: \Controller\TypesController.php:94
+msgid "Invalid Type"
+msgstr "סוג לא חוקי"
+
+#: \Controller\TypesController.php:122
+msgid "Invalid id for Type"
+msgstr ""
+
+#: \Controller\TypesController.php:126
+msgid "Type deleted"
+msgstr "סוג נמחק"
+
+#: \Controller\UsersController.php:58
+msgid "You have reached maximum limit for failed login attempts. Please try again after a few minutes."
+msgstr "הגעת למקסימום נסיונות. נא נסה שוב בעוד מספר דקות"
+
+#: \Controller\UsersController.php:108;131
+msgid "The User has been saved"
+msgstr ""
+
+#: \Controller\UsersController.php:111;134;264
+msgid "The User could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\UsersController.php:153
+msgid "Invalid User"
+msgstr "משתמש לא חוקי"
+
+#: \Controller\UsersController.php:158
+msgid "Password has been reset."
+msgstr "סיסמא אופסה"
+
+#: \Controller\UsersController.php:161
+msgid "Password could not be reset. Please, try again."
+msgstr "לא ניתן לאפס, אנא נסה שוב"
+
+#: \Controller\UsersController.php:178
+msgid "Invalid id for User"
+msgstr ""
+
+#: \Controller\UsersController.php:182
+msgid "User deleted"
+msgstr ""
+
+#: \Controller\UsersController.php:185
+msgid "User cannot be deleted"
+msgstr ""
+
+#: \Controller\UsersController.php:197
+msgid "Admin Login"
+msgstr "כניסת משתמש"
+
+#: \Controller\UsersController.php:219;418
+msgid "Log out successful."
+msgstr "יציאה מוצלחת"
+
+#: \Controller\UsersController.php:240
+msgid "Register"
+msgstr "הרשם"
+
+#: \Controller\UsersController.php:255
+msgid "[%s] Please activate your account"
+msgstr ""
+
+#: \Controller\UsersController.php:260
+msgid "You have successfully registered an account. An email has been sent with further instructions."
+msgstr ""
+
+#: \Controller\UsersController.php:292
+msgid "Account activated successfully."
+msgstr ""
+
+#: \Controller\UsersController.php:317
+msgid "Forgot Password"
+msgstr "שכחת סיסמא"
+
+#: \Controller\UsersController.php:322
+msgid "Invalid username."
+msgstr "שם משתמש לא נכון"
+
+#: \Controller\UsersController.php:334
+msgid "[%s] Reset Password"
+msgstr "[%s] אפס סיסמא"
+
+#: \Controller\UsersController.php:337
+msgid "An email has been sent with instructions for resetting your password."
+msgstr ""
+
+#: \Controller\UsersController.php:340;382
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: \Controller\UsersController.php:354
+msgid "Reset Password"
+msgstr "אפס סיסמא"
+
+#: \Controller\UsersController.php:379
+msgid "Your password has been reset successfully."
+msgstr ""
+
+#: \Controller\UsersController.php:396
+msgid "Log in"
+msgstr "כניסה"
+
+#: \Controller\UsersController.php:433
+msgid "Invalid User."
+msgstr "משתמש לא חוקי"
+
+#: \Controller\VocabulariesController.php:39
+msgid "Vocabularies"
+msgstr ""
+
+#: \Controller\VocabulariesController.php:53
+msgid "Add Vocabulary"
+msgstr ""
+
+#: \Controller\VocabulariesController.php:58;85
+msgid "The Vocabulary has been saved"
+msgstr ""
+
+#: \Controller\VocabulariesController.php:61;88
+msgid "The Vocabulary could not be saved. Please, try again."
+msgstr ""
+
+#: \Controller\VocabulariesController.php:77
+msgid "Edit Vocabulary"
+msgstr ""
+
+#: \Controller\VocabulariesController.php:80
+msgid "Invalid Vocabulary"
+msgstr ""
+
+#: \Controller\VocabulariesController.php:108
+msgid "Invalid id for Vocabulary"
+msgstr ""
+
+#: \Controller\VocabulariesController.php:112
+msgid "Vocabulary deleted"
+msgstr ""
+
+#: \Event\CroogoEventManager.php:69
+msgid "EventHandler %s not found in plugin %s"
+msgstr ""
+
+#: \Lib\CroogoRouter.php:107
+msgid "Unable to get routeable content types: %s"
+msgstr ""
+
+#: \Model\User.php:208
+msgid "Passwords do not match. Please, try again."
+msgstr "חוסר התאמה בסיסמא, אנא נסה שוב"
+
+#: \Model\Behavior\CroogoTranslateBehavior.php:52
+msgid "Datasource %s for CroogoTranslateBehavior of model %s is not connected"
+msgstr ""
+
+#: \Plugin\Acl\Config\bootstrap.php:19
+#: \Plugin\Acl\Controller\AclPermissionsController.php:56
+msgid "Permissions"
+msgstr "הרשאות"
+
+#: \Plugin\Acl\Controller\AclActionsController.php:53
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:18
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_index.ctp:16
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:18
+#: \Plugin\Photon\View\Albums\admin_index.ctp:17
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:37
+#: \Plugin\Photon\View\Photos\admin_addlist.ctp:17
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:21
+#: \Plugin\Photon\View\Photos\admin_index.ctp:10
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:17
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:23
+#: \Plugin\Photon\View_cochav\photos\admin_index.ctp:10
+#: \Plugin\Seo\View\Seo\admin_duplicate_titles.ctp:18
+#: \Plugin\Seo\View\Seo\admin_no_description.ctp:18
+#: \Plugin\Seo\View\Seo\admin_no_keywords.ctp:18
+#: \Plugin\Seo\View\Seo\admin_no_taxonomy.ctp:18
+#: \Plugin\Translate\View\Translate\admin_index.ctp:26
+#: \View\Attachments\admin_browse.ctp:18
+#: \View\Attachments\admin_index.ctp:10
+#: \View\Blocks\admin_index.ctp:13
+#: \View\Comments\admin_index.ctp:30
+#: \View\Common\admin_index.ctp:47
+#: \View\Filemanager\admin_browse.ctp:26
+#: \View\Languages\admin_index.ctp:11
+#: \View\Links\admin_index.ctp:31
+#: \View\Menus\admin_index.ctp:10
+#: \View\Messages\admin_index.ctp:27
+#: \View\Nodes\admin_index.ctp:30
+#: \View\Nodes\admin_translations.ctp:28
+#: \View\Settings\admin_index.ctp:10
+#: \View\Terms\admin_index.ctp:29
+#: \View\Themed\elegant\Contacts\admin_index.ctp:17
+#: \View\Vocabularies\admin_index.ctp:9
+msgid "Actions"
+msgstr "פעולות"
+
+#: \Plugin\Acl\Controller\AclActionsController.php:68
+msgid "Add Action"
+msgstr "הוסף פעולה"
+
+#: \Plugin\Acl\Controller\AclActionsController.php:82
+msgid "The %s has been saved"
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:85
+msgid "The %s could not be saved. Please, try again."
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:113
+msgid "Edit Action"
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:116
+msgid "Invalid Action"
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:121
+msgid "The Action has been saved"
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:124
+msgid "The Action could not be saved. Please, try again."
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:156;174
+msgid "Invalid id for Action"
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:160
+msgid "Action deleted"
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:179
+msgid "Action moved up"
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:184
+msgid "Action moved down"
+msgstr ""
+
+#: \Plugin\Acl\Controller\AclActionsController.php:241
+msgid "Created %d new permissions"
+msgstr ""
+
+#: \Plugin\Acl\View\AclActions\admin_add.ctp:9
+#: \Plugin\Acl\View\AclActions\admin_edit.ctp:12
+msgid "Choose none if the Aco is a controller."
+msgstr ""
+
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:9
+msgid "New Action"
+msgstr ""
+
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:10
+#: \Plugin\Acl\View\AclPermissions\admin_index.ctp:8
+msgid "Generate Actions"
+msgstr ""
+
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:16
+#: \Plugin\Acl\View\AclPermissions\admin_index.ctp:18
+#: \View\Links\admin_index.ctp:28
+#: \View\Settings\admin_view.ctp:4
+#: \View\Terms\admin_index.ctp:26
+msgid "Id"
+msgstr "מזהה"
+
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:17
+#: \Plugin\Acl\View\AclPermissions\admin_index.ctp:19
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:14
+msgid "Alias"
+msgstr "שם נרדף"
+
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:39
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_index.ctp:27
+#: \Plugin\Photon\View\Albums\admin_index.ctp:29
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:29
+#: \Plugin\Seo\View\Seo\admin_duplicate_titles.ctp:24
+#: \Plugin\Seo\View\Seo\admin_no_description.ctp:24
+#: \Plugin\Seo\View\Seo\admin_no_keywords.ctp:24
+#: \Plugin\Seo\View\Seo\admin_no_taxonomy.ctp:24
+#: \Plugin\Translate\View\Translate\admin_index.ctp:32
+#: \View\Attachments\admin_browse.ctp:24
+#: \View\Attachments\admin_index.ctp:16
+#: \View\Blocks\admin_index.ctp:21
+#: \View\Comments\admin_index.ctp:36
+#: \View\Common\admin_edit.ctp:8
+#: \View\Common\admin_index.ctp:54
+#: \View\Filemanager\admin_browse.ctp:51
+#: \View\Languages\admin_index.ctp:19
+#: \View\Links\admin_index.ctp:39
+#: \View\Menus\admin_index.ctp:17
+#: \View\Messages\admin_index.ctp:33
+#: \View\Nodes\admin_index.ctp:36
+#: \View\Nodes\admin_translations.ctp:34
+#: \View\Settings\admin_index.ctp:18
+#: \View\Terms\admin_index.ctp:45
+#: \View\Themed\elegant\Contacts\admin_index.ctp:25
+#: \View\Vocabularies\admin_index.ctp:16
+msgid "Edit"
+msgstr "עריכה"
+
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:40
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_index.ctp:28
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:42
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_index.ctp:62
+#: \Plugin\Photon\View\Albums\admin_index.ctp:30
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:30
+#: \Plugin\Seo\View\Seo\admin_duplicate_titles.ctp:26
+#: \Plugin\Seo\View\Seo\admin_no_description.ctp:26
+#: \Plugin\Seo\View\Seo\admin_no_keywords.ctp:26
+#: \Plugin\Seo\View\Seo\admin_no_taxonomy.ctp:26
+#: \Plugin\Translate\View\Translate\admin_index.ctp:38
+#: \View\Attachments\admin_browse.ctp:29
+#: \View\Attachments\admin_index.ctp:22
+#: \View\Blocks\admin_index.ctp:23;49
+#: \View\Comments\admin_index.ctp:38;72
+#: \View\Common\admin_index.ctp:58
+#: \View\Filemanager\admin_browse.ctp:35;53
+#: \View\Languages\admin_index.ctp:21
+#: \View\Links\admin_index.ctp:41;65
+#: \View\Menus\admin_index.ctp:19
+#: \View\Messages\admin_index.ctp:35;62
+#: \View\Nodes\admin_index.ctp:38;75
+#: \View\Nodes\admin_translations.ctp:35
+#: \View\Settings\admin_index.ctp:20
+#: \View\Terms\admin_index.ctp:51
+#: \View\Themed\elegant\Contacts\admin_index.ctp:27
+#: \View\Vocabularies\admin_index.ctp:20
+msgid "Delete"
+msgstr "מחיקה"
+
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:43
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_index.ctp:31
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:45
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_index.ctp:65
+#: \Plugin\Seo\View\Seo\admin_duplicate_titles.ctp:30
+#: \Plugin\Seo\View\Seo\admin_no_description.ctp:30
+#: \Plugin\Seo\View\Seo\admin_no_keywords.ctp:30
+#: \Plugin\Seo\View\Seo\admin_no_taxonomy.ctp:30
+#: \Plugin\Translate\View\Translate\admin_index.ctp:43
+#: \View\Attachments\admin_browse.ctp:33
+#: \View\Attachments\admin_index.ctp:26
+#: \View\Blocks\admin_index.ctp:25
+#: \View\Comments\admin_index.ctp:40
+#: \View\Common\admin_index.ctp:61
+#: \View\Helper\FilemanagerHelper.php:123
+#: \View\Languages\admin_index.ctp:24
+#: \View\Links\admin_index.ctp:43
+#: \View\Menus\admin_index.ctp:23
+#: \View\Messages\admin_index.ctp:37
+#: \View\Nodes\admin_index.ctp:40
+#: \View\Nodes\admin_translations.ctp:35
+#: \View\Settings\admin_index.ctp:24
+#: \View\Terms\admin_index.ctp:55
+#: \View\Themed\elegant\Contacts\admin_index.ctp:31
+#: \View\Vocabularies\admin_index.ctp:24
+msgid "Are you sure?"
+msgstr "בלי חרטות?"
+
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:44
+#: \Plugin\Photon\View\Albums\admin_index.ctp:25
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:60
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:56
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:25
+#: \View\Blocks\admin_index.ctp:19
+#: \View\Languages\admin_index.ctp:17
+#: \View\Links\admin_index.ctp:37
+#: \View\Settings\admin_index.ctp:16
+#: \View\Terms\admin_index.ctp:35
+#: \View\Vocabularies\admin_index.ctp:17
+msgid "Move up"
+msgstr "העלאה למעלה"
+
+#: \Plugin\Acl\View\AclActions\admin_index.ctp:45
+#: \Plugin\Photon\View\Albums\admin_index.ctp:26
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:61
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:57
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:26
+#: \View\Blocks\admin_index.ctp:20
+#: \View\Languages\admin_index.ctp:18
+#: \View\Links\admin_index.ctp:38
+#: \View\Settings\admin_index.ctp:17
+#: \View\Terms\admin_index.ctp:40
+#: \View\Vocabularies\admin_index.ctp:18
+msgid "Move down"
+msgstr "הורדה מטה"
+
+#: \Plugin\Acl\View\AclPermissions\admin_index.ctp:9
+msgid "Edit Actions"
+msgstr ""
+
+#: \Plugin\Acl\View\AclPermissions\admin_toggle.ctp:9
+msgid "error"
+msgstr ""
+
+#: \Plugin\AjaxMultiUpload\Controller\UploadsController.php:68
+msgid "File parameter is missing"
+msgstr ""
+
+#: \Plugin\AjaxMultiUpload\Controller\UploadsController.php:74
+msgid "File deleted!"
+msgstr "קובץ נמחק"
+
+#: \Plugin\AjaxMultiUpload\Controller\UploadsController.php:76
+msgid "Unable to delete File"
+msgstr "לא ניתן למחוק את הקובץ"
+
+#: \Plugin\AjaxMultiUpload\Controller\UploadsController.php:79
+msgid "File does not exist!"
+msgstr "קובץ אינו קיים"
+
+#: \Plugin\Example\Config\bootstrap.php:34
+#: \Plugin\Example\Controller\ExampleController.php:39;48
+msgid "Example"
+msgstr "דוגמא"
+
+#: \Plugin\Example\Config\bootstrap.php:38
+msgid "Example 1"
+msgstr ""
+
+#: \Plugin\Example\Config\bootstrap.php:42
+msgid "Example 2"
+msgstr ""
+
+#: \Plugin\Example\Event\ExampleEventHandler.php:43
+msgid "Welcome %s.  Have a nice day"
+msgstr ""
+
+#: \Plugin\Example\View\Example\admin_index.ctp:4
+msgid "New Tab"
+msgstr ""
+
+#: \Plugin\Example\View\Example\admin_index.ctp:7
+#: \Plugin\Example\View\Example\index.ctp:3
+#: \Plugin\Seo\View\Seo\index.ctp:3
+msgid "content here"
+msgstr ""
+
+#: \Plugin\Extensions\Config\bootstrap.php:13
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:56
+msgid "Themes"
+msgstr ""
+
+#: \Plugin\Extensions\Config\bootstrap.php:22
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:42
+msgid "Locales"
+msgstr ""
+
+#: \Plugin\Extensions\Config\bootstrap.php:31
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:67
+msgid "Plugins"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:64
+msgid "Locale does not exist."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:70
+msgid "Locale '%s' set as default"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:72
+msgid "Could not save Locale setting."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:83
+msgid "Upload a new locale"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:109;164
+msgid "Invalid locale."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:114
+msgid "Locale already exists."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:161
+msgid "Edit locale: %s"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:169
+msgid "The file default.po does not exist."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:179
+msgid "Locale updated successfully"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:195
+#: \Plugin\Translate\Controller\TranslateController.php:104
+msgid "Invalid locale"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:201
+msgid "Locale deleted successfully."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsLocalesController.php:203
+msgid "Local could not be deleted."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:84
+msgid "Upload a new plugin"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:109;137
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:87
+msgid "Invalid plugin"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:113
+msgid "You cannot delete a plugin that is currently active."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:119
+msgid "Plugin \"%s\" deleted successfully."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:123
+msgid "Plugin could not be deleted."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:148
+#: \Plugin\Extensions\Lib\CroogoPlugin.php:339
+msgid "Plugin could not be deactivated. Please, try again."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsPluginsController.php:157
+msgid "Plugin could not be activated. Please, try again."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:77
+msgid "Theme activated."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:79
+msgid "Theme activation failed."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:91
+msgid "Upload a new theme"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:100
+msgid "Theme uploaded successfully."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:114
+msgid "Theme Editor"
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:133
+msgid "Invalid Theme."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:138
+msgid "Default theme cannot be deleted."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:141
+msgid "You cannot delete a theme that is currently active."
+msgstr ""
+
+#: \Plugin\Extensions\Controller\ExtensionsThemesController.php:163
+msgid "Theme deleted successfully."
+msgstr ""
+
+#: \Plugin\Extensions\Lib\CroogoPlugin.php:286
+msgid "Plugin \"%s\" is already active."
+msgstr ""
+
+#: \Plugin\Extensions\Lib\CroogoPlugin.php:312
+msgid "Plugin \"%s\" depends on \"%s\" plugin."
+msgstr ""
+
+#: \Plugin\Extensions\Lib\CroogoPlugin.php:326
+msgid "Plugin \"%s\" is not active."
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:61
+msgid "Invalid plugin path"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:92;173
+msgid "Invalid zip archive"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:107
+msgid "Invalid plugin file path"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:118
+msgid "Plugin already exists"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:134
+msgid "Failed to extract plugin"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:147
+msgid "Invalid theme path"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:168
+msgid "Invalid theme"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:188
+msgid "Invalid theme file path"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:199
+msgid "Theme already exists"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:215
+msgid "Failed to extract theme"
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:234
+msgid "Must specify a valid package name: vendor/name."
+msgstr ""
+
+#: \Plugin\Extensions\Lib\ExtensionsInstaller.php:238
+msgid "Themes installed via composer are not yet supported."
+msgstr ""
+
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_add.ctp:22
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_edit.ctp:29
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_add.ctp:22
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_add.ctp:22
+#: \Plugin\Install\View\Install\adminuser.ctp:15
+#: \View\Attachments\admin_add.ctp:30
+#: \View\Attachments\admin_edit.ctp:45
+#: \View\Blocks\admin_add.ctp:57
+#: \View\Blocks\admin_edit.ctp:59
+#: \View\Comments\admin_edit.ctp:35
+#: \View\Common\admin_edit.ctp:57
+#: \View\Contacts\admin_add.ctp:71
+#: \View\Contacts\admin_edit.ctp:72
+#: \View\Filemanager\admin_create_directory.ctp:29
+#: \View\Filemanager\admin_create_file.ctp:30
+#: \View\Filemanager\admin_editfile.ctp:30
+#: \View\Filemanager\admin_upload.ctp:31
+#: \View\Languages\admin_add.ctp:25
+#: \View\Languages\admin_edit.ctp:26
+#: \View\Links\admin_add.ctp:57
+#: \View\Links\admin_edit.ctp:57
+#: \View\Menus\admin_add.ctp:32
+#: \View\Menus\admin_edit.ctp:33
+#: \View\Messages\admin_edit.ctp:18
+#: \View\Nodes\admin_add.ctp:107
+#: \View\Nodes\admin_edit.ctp:102
+#: \View\Regions\admin_add.ctp:23
+#: \View\Regions\admin_edit.ctp:23
+#: \View\Roles\admin_add.ctp:23
+#: \View\Roles\admin_edit.ctp:24
+#: \View\Settings\admin_add.ctp:34
+#: \View\Settings\admin_edit.ctp:34
+#: \View\Terms\admin_add.ctp:37
+#: \View\Terms\admin_edit.ctp:32
+#: \View\Themed\elegant\Contacts\admin_add.ctp:72
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:73
+#: \View\Types\admin_add.ctp:86
+#: \View\Types\admin_edit.ctp:86
+#: \View\Users\admin_add.ctp:28
+#: \View\Users\admin_reset_password.ctp:16
+#: \View\Vocabularies\admin_add.ctp:35
+#: \View\Vocabularies\admin_edit.ctp:35
+msgid "Cancel"
+msgstr "ביטול"
+
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_edit.ctp:28
+#: \Plugin\Install\View\Install\adminuser.ctp:14
+#: \Plugin\Translate\View\Translate\admin_edit.ctp:32
+#: \View\Attachments\admin_add.ctp:29
+#: \View\Attachments\admin_edit.ctp:44
+#: \View\Blocks\admin_add.ctp:56
+#: \View\Blocks\admin_edit.ctp:58
+#: \View\Comments\admin_edit.ctp:34
+#: \View\Common\admin_edit.ctp:56
+#: \View\Contacts\admin_add.ctp:70
+#: \View\Contacts\admin_edit.ctp:71
+#: \View\Filemanager\admin_editfile.ctp:29
+#: \View\Languages\admin_add.ctp:24
+#: \View\Languages\admin_edit.ctp:25
+#: \View\Links\admin_add.ctp:56
+#: \View\Links\admin_edit.ctp:56
+#: \View\Menus\admin_add.ctp:31
+#: \View\Menus\admin_edit.ctp:32
+#: \View\Messages\admin_edit.ctp:17
+#: \View\Nodes\admin_add.ctp:106
+#: \View\Nodes\admin_edit.ctp:101
+#: \View\Regions\admin_add.ctp:22
+#: \View\Regions\admin_edit.ctp:22
+#: \View\Roles\admin_add.ctp:22
+#: \View\Roles\admin_edit.ctp:23
+#: \View\Settings\admin_add.ctp:33
+#: \View\Settings\admin_edit.ctp:33
+#: \View\Settings\admin_prefix.ctp:65
+#: \View\Terms\admin_add.ctp:36
+#: \View\Terms\admin_edit.ctp:31
+#: \View\Themed\elegant\Contacts\admin_add.ctp:71
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:72
+#: \View\Types\admin_add.ctp:85
+#: \View\Types\admin_edit.ctp:85
+#: \View\Users\admin_add.ctp:27
+#: \View\Vocabularies\admin_add.ctp:34
+#: \View\Vocabularies\admin_edit.ctp:34
+msgid "Save"
+msgstr "שמירה"
+
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_index.ctp:14
+#: \Plugin\Translate\View\Translate\admin_index.ctp:25
+#: \View\Nodes\admin_translations.ctp:27
+msgid "Locale"
+msgstr ""
+
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_index.ctp:15
+msgid "Default"
+msgstr ""
+
+#: \Plugin\Extensions\View\ExtensionsLocales\admin_index.ctp:23
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:33
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_index.ctp:58
+msgid "Activate"
+msgstr "הפעלה"
+
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:15
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:48
+#: \Plugin\Photon\View\Photos\admin_addlist.ctp:42
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:40
+#: \View\Elements\comments_form.ctp:23;39
+#: \View\Themed\elegant\Elements\comments_form.ctp:23;40
+msgid "Name"
+msgstr "שם"
+
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:16
+#: \Plugin\Photon\View\Albums\admin_add.ctp:13
+#: \Plugin\Photon\View\Albums\admin_edit.ctp:98
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:49;50;99
+#: \Plugin\Photon\View\Photos\admin_addlist.ctp:13;51
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:17;44
+#: \Plugin\Photon\View_cochav\albums\admin_add.ctp:8
+#: \Plugin\Photon\View_cochav\albums\admin_edit.ctp:25
+#: \View\Settings\admin_view.ctp:19
+msgid "Description"
+msgstr "תיאור"
+
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:17
+msgid "Active"
+msgstr "פעיל"
+
+#: \Plugin\Extensions\View\ExtensionsPlugins\admin_index.ctp:30
+msgid "Deactivate"
+msgstr ""
+
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_index.ctp:7
+msgid "Editor"
+msgstr ""
+
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_index.ctp:12
+msgid "Current Theme"
+msgstr ""
+
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_index.ctp:28;54
+#: \View\Comments\rss\index.ctp:16
+#: \View\Elements\node_info.ctp:9
+#: \View\Themed\elegant\Elements\node_info.ctp:9
+msgid "by"
+msgstr ""
+
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_index.ctp:32;56
+msgid "Regions supported: "
+msgstr ""
+
+#: \Plugin\Extensions\View\ExtensionsThemes\admin_index.ctp:37
+msgid "Available Themes"
+msgstr ""
+
+#: \Plugin\Install\Console\Command\InstallShell.php:21
+msgid "Install Utilities"
+msgstr ""
+
+#: \Plugin\Install\Controller\InstallController.php:105
+msgid "Installation: Welcome"
+msgstr ""
+
+#: \Plugin\Install\Controller\InstallController.php:120
+msgid "Step 1: Database"
+msgstr ""
+
+#: \Plugin\Install\Controller\InstallController.php:142
+msgid "Could not connect to database: %s"
+msgstr ""
+
+#: \Plugin\Install\Controller\InstallController.php:146;200
+#: \Plugin\Seo\Config\SeoActivation.php:51
+msgid "Could not connect to database."
+msgstr ""
+
+#: \Plugin\Install\Controller\InstallController.php:159
+msgid "Could not write database.php file."
+msgstr ""
+
+#: \Plugin\Install\Controller\InstallController.php:166
+msgid "Could not write croogo.php file."
+msgstr ""
+
+#: \Plugin\Install\Controller\InstallController.php:191
+msgid "Step 2: Build database"
+msgstr ""
+
+#: \Plugin\Install\Controller\InstallController.php:210
+msgid "Could not create table: %s"
+msgstr ""
+
+#: \Plugin\Install\Controller\InstallController.php:272
+msgid "Installation completed successfully"
+msgstr ""
+
+#: \Plugin\Install\View\Install\adminuser.ctp:2
+msgid "Step 3: Create Admin User"
+msgstr ""
+
+#: \Plugin\Install\View\Install\adminuser.ctp:7
+#: \View\Users\admin_reset_password.ctp:8
+msgid "New Password"
+msgstr ""
+
+#: \Plugin\Install\View\Install\adminuser.ctp:8
+#: \View\Users\admin_reset_password.ctp:9
+#: \View\Users\reset.ctp:7
+msgid "Verify Password"
+msgstr ""
+
+#: \Plugin\Install\View\Install\data.ctp:5
+msgid "Click here to build your database"
+msgstr ""
+
+#: \Plugin\Install\View\Install\finish.ctp:5
+msgid "\n\t\tThe user %s has been created with administrative rights."
+msgstr ""
+
+#: \Plugin\Install\View\Install\finish.ctp:12
+msgid "Admin panel: %s"
+msgstr ""
+
+#: \Plugin\Install\View\Install\finish.ctp:17
+msgid "You can start with %s or jump in and %s."
+msgstr ""
+
+#: \Plugin\Install\View\Install\finish.ctp:18
+msgid "configuring your site"
+msgstr ""
+
+#: \Plugin\Install\View\Install\finish.ctp:19
+msgid "create a blog post"
+msgstr ""
+
+#: \Plugin\Install\View\Install\finish.ctp:25
+msgid "Resources"
+msgstr ""
+
+#: \Plugin\Install\View\Install\index.ctp:8
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: \Plugin\Install\View\Install\index.ctp:11
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: \Plugin\Install\View\Install\index.ctp:16
+msgid "Your config directory is writable."
+msgstr ""
+
+#: \Plugin\Install\View\Install\index.ctp:19
+msgid "Your config directory is NOT writable."
+msgstr ""
+
+#: \Plugin\Install\View\Install\index.ctp:24
+msgid "PHP version %s > 5"
+msgstr ""
+
+#: \Plugin\Install\View\Install\index.ctp:27
+msgid "PHP version %s < 5"
+msgstr ""
+
+#: \Plugin\Install\View\Install\index.ctp:34
+msgid "CakePhp version %s >= %s"
+msgstr ""
+
+#: \Plugin\Install\View\Install\index.ctp:37
+msgid "CakePHP version %s < %s"
+msgstr ""
+
+#: \Plugin\Install\View\Install\index.ctp:43
+msgid "Installation cannot continue as minimum requirements are not met."
+msgstr ""
+
+#: \Plugin\Install\View\Layouts\install.ctp:5
+#: \View\Layouts\admin.ctp:5
+#: \View\Layouts\admin_full.ctp:5
+#: \View\Layouts\admin_login.ctp:5
+msgid "Croogo"
+msgstr ""
+
+#: \Plugin\Install\View\Layouts\install.ctp:21
+msgid "Install Croogo"
+msgstr ""
+
+#: \Plugin\Photon\Config\bootstrap.php:34;44
+msgid "Gallery"
+msgstr "קטלוג"
+
+#: \Plugin\Photon\Controller\AlbumsController.php:43;198
+#: \Plugin\Photon\View\Albums\index.ctp:6
+msgid "Albums"
+msgstr "קטגוריות"
+
+#: \Plugin\Photon\Controller\AlbumsController.php:70;123
+msgid "Album is saved."
+msgstr "קטגוריה נשמרה"
+
+#: \Plugin\Photon\Controller\AlbumsController.php:90;126
+msgid "Album could not be saved. Please try again."
+msgstr "לא ניתן לשמור, אנא נסה שוב"
+
+#: \Plugin\Photon\Controller\AlbumsController.php:111
+msgid "Invalid album."
+msgstr "קטגוריה לא חוקית"
+
+#: \Plugin\Photon\Controller\AlbumsController.php:151
+msgid "Invalid ID for album."
+msgstr ""
+
+#: \Plugin\Photon\Controller\AlbumsController.php:160
+msgid "Album is deleted, and whole directory with images."
+msgstr "קטגוריה נמחקה, כולל כל הפריטים שבה"
+
+#: \Plugin\Photon\Controller\AlbumsController.php:268;275;293
+msgid "Invalid album. Please try again."
+msgstr "קטגוריה שגויה, אנא נסה שוב"
+
+#: \Plugin\Photon\Controller\AlbumsController.php:297
+#: \Plugin\Photon\View_cochav\albums\viewall.ctp:3
+#: \Plugin\Photon\View_cochav\albums\viewgallery.ctp:3
+#: \Plugin\Photon\View_cochav\photos\admin_index.ctp:16
+#: \Plugin\Photon\View\Photos\admin_index.ctp:16
+msgid "Album"
+msgstr "קטגוריה"
+
+#: \Plugin\Photon\Controller\AlbumsController.php:336
+#: \Plugin\Photon\Controller\PhotosController.php:51;62
+msgid "Invalid photo. Please try again."
+msgstr "תמונה שגויה, אנא נסה שנית"
+
+#: \Plugin\Photon\Controller\AlbumsController.php:342
+#: \Plugin\Photon\Controller\PhotosController.php:128
+msgid "Problem to remove photo. Please try again."
+msgstr "בעייה במחיקת התמונה, אנא נסה שנית"
+
+#: \Plugin\Photon\Controller\PhotosController.php:37
+msgid "Photos"
+msgstr "פריטים"
+
+#: \Plugin\Photon\Controller\PhotosController.php:66
+msgid "Photo"
+msgstr "פריט"
+
+#: \Plugin\Photon\View\Albums\admin_add.ctp:7
+#: \Plugin\Photon\View\Albums\admin_edit.ctp:92
+msgid "Category"
+msgstr "קטגוריה"
+
+#: \Plugin\Photon\View\Albums\admin_add.ctp:11
+#: \Plugin\Photon\View\Albums\admin_edit.ctp:96
+#: \Plugin\Photon\View\Albums\admin_index.ctp:15
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:97
+#: \Plugin\Photon\View\Photos\admin_addlist.ctp:12
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:16
+#: \Plugin\Photon\View_cochav\albums\admin_add.ctp:6
+#: \Plugin\Photon\View_cochav\albums\admin_edit.ctp:23
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:15
+#: \Plugin\Translate\View\Translate\admin_index.ctp:24
+#: \View\Links\admin_index.ctp:29
+#: \View\Nodes\admin_translations.ctp:26
+#: \View\Terms\admin_index.ctp:27
+msgid "Title"
+msgstr "כותרת"
+
+#: \Plugin\Photon\View\Albums\admin_edit.ctp:67
+#: \Plugin\Photon\View_cochav\albums\admin_edit.ctp:3
+msgid "Edit album"
+msgstr "עריכת קטגוריה"
+
+#: \Plugin\Photon\View\Albums\admin_edit.ctp:73
+#: \Plugin\Photon\View_cochav\albums\admin_edit.ctp:7
+#: \Plugin\Photon\View_cochav\albums\viewall.ctp:9
+#: \Plugin\Photon\View_cochav\albums\viewgallery.ctp:9
+msgid "Back"
+msgstr "חזרה"
+
+#: \Plugin\Photon\View\Albums\admin_edit.ctp:82
+#: \Plugin\Photon\View_cochav\albums\admin_edit.ctp:16
+msgid "Images"
+msgstr "תמונות"
+
+#: \Plugin\Photon\View\Albums\admin_edit.ctp:113
+msgid "Continue"
+msgstr "המשך"
+
+#: \Plugin\Photon\View\Albums\admin_index.ctp:30
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:30
+msgid "Are you sure you want to delete this album?"
+msgstr "האם באמת למחוק את הקטגוריה?"
+
+#: \Plugin\Photon\View\Albums\admin_index.ctp:52
+#: \View\Common\admin_index.ctp:92
+msgid "first"
+msgstr "ראשון"
+
+#: \Plugin\Photon\View\Albums\admin_index.ctp:53
+#: \View\Common\admin_index.ctp:93
+msgid "prev"
+msgstr "קודם"
+
+#: \Plugin\Photon\View\Albums\admin_index.ctp:55
+#: \View\Common\admin_index.ctp:95
+msgid "next"
+msgstr "הבא"
+
+#: \Plugin\Photon\View\Albums\admin_index.ctp:56
+#: \View\Common\admin_index.ctp:96
+msgid "last"
+msgstr "אחרון"
+
+#: \Plugin\Photon\View\Albums\admin_index.ctp:58
+#: \Plugin\Photon\View\Photos\admin_index.ctp:34
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:48
+#: \Plugin\Photon\View_cochav\photos\admin_index.ctp:34
+#: \View\Attachments\admin_browse.ctp:69
+#: \View\Common\admin_index.ctp:98
+#: \View\Themed\elegant\Contacts\admin_index.ctp:54
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr "דף %apge% מתוך %pages%, %current% רשמומות מתוך %count%, רשומות מתחילות ב %start% ומסתיימות ב %end%";
+
+#: \Plugin\Photon\View\Elements\admin_node_add.ctp:3
+#: \Plugin\Photon\View_cochav\elements\admin_node_add.ctp:3
+msgid "Images cannot be uploaded right now..."
+msgstr ""
+
+#: \Plugin\Photon\View\Elements\admin_node_add.ctp:4
+#: \Plugin\Photon\View_cochav\elements\admin_node_add.ctp:4
+msgid "Before you can add any pictures, you first have to save your new node. Afterwards, just hit 'Edit' and there you go!"
+msgstr ""
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:20
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:13
+msgid "Pictures for this album:"
+msgstr ""
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:21
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:14
+msgid "Every node has got its private gallery album. Everytime you upload an image in this tab, it will be appended to this album. To show the whole album in your node, paste the following code at the location of your choice (of course this works in other nodes as well):"
+msgstr ""
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:34
+#: \Plugin\Photon\View\Photos\admin_addlist.ctp:11
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:15
+#: \Plugin\Photon\View\Photos\admin_index.ctp:7
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:20
+#: \Plugin\Photon\View_cochav\photos\admin_index.ctp:7
+msgid "Picture"
+msgstr "תמונה"
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:35
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:21
+msgid "Title, Description & URL"
+msgstr ""
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:36
+#: \Plugin\Photon\View\Photos\admin_addlist.ctp:16
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:20
+#: \Plugin\Photon\View\Photos\admin_index.ctp:9
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:22
+#: \Plugin\Photon\View_cochav\photos\admin_index.ctp:9
+msgid "Embedding"
+msgstr ""
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:53
+msgid "Term1"
+msgstr "גודל"
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:57;102
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:35;77
+msgid "URL: "
+msgstr ""
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:66;105
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:59
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:42;80
+#: \View\Helper\LayoutHelper.php:741
+msgid "Remove"
+msgstr "הסר"
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:110;142
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:85;117
+msgid "Drop files here to upload"
+msgstr ""
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:111
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:86
+msgid "Add new photos"
+msgstr "הוסף פריטים חדשים"
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:119;151
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:94;126
+msgid "cancel"
+msgstr "ביטול"
+
+#: \Plugin\Photon\View\Elements\admin_node_edit.ctp:143
+#: \Plugin\Photon\View_cochav\elements\admin_node_edit.ctp:118
+msgid "Change photo"
+msgstr "שנה תמונה"
+
+#: \Plugin\Photon\View\Elements\gallery.ctp:111
+msgid "No photos in  album "
+msgstr "אין פריטים בקטגוריה"
+
+#: \Plugin\Photon\View\Elements\youtube.ctp:47
+#: \Plugin\Photon\View_cochav\elements\albumsgallery.ctp:57
+#: \Plugin\Photon\View_cochav\elements\gallery.ctp:34
+#: \Plugin\Photon\View\Elements\popeye.ctp:33
+#: \Plugin\Photon\View\Elements\slider.ctp:17
+#: \Plugin\Photon\View_cochav\elements\popeye.ctp:33
+#: \Plugin\Photon\View_cochav\elements\slider.ctp:17
+msgid "No photos in the album"
+msgstr "אין פריטים בקטגוריה"
+
+#: \Plugin\Photon\View\Photos\admin_addlist.ctp:14
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:18
+
+
+#: \Plugin\Photon\View\Photos\admin_addlist.ctp:15
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:19
+msgid "term2"
+msgstr "חומר"
+
+#: \Plugin\Photon\View\Photos\admin_editlist.ctp:38
+msgid "Change Picture"
+msgstr "שנה תמונה"
+
+#: \Plugin\Photon\View\Photos\admin_index.ctp:8
+#: \Plugin\Photon\View_cochav\photos\admin_index.ctp:8
+#: \View\Attachments\admin_browse.ctp:17
+#: \View\Attachments\admin_index.ctp:9
+msgid "URL"
+msgstr ""
+
+#: \Plugin\Photon\View_cochav\albums\admin_add.ctp:2
+#: \Plugin\Photon\View\Albums\admin_add.ctp:2
+msgid "Add album"
+msgstr "הוספת קטגוריה"
+
+#: \Plugin\Photon\View_cochav\albums\admin_edit.ctp:36
+#: \Plugin\Seo\View\Seo\admin_duplicate_titles.ctp:68
+#: \Plugin\Seo\View\Seo\admin_facebook.ctp:49
+#: \Plugin\Seo\View\Seo\admin_google.ctp:78
+#: \Plugin\Seo\View\Seo\admin_index.ctp:140
+#: \Plugin\Seo\View\Seo\admin_no_description.ctp:68
+#: \Plugin\Seo\View\Seo\admin_no_keywords.ctp:68
+#: \Plugin\Seo\View\Seo\admin_no_taxonomy.ctp:68
+#: \Plugin\Seo\View\Seo\admin_tweet.ctp:23
+#: \Plugin\Seo\View\Seo\admin_twitter.ctp:33
+#: \View\Blocks\admin_index.ctp:53
+#: \View\Comments\admin_index.ctp:76
+#: \View\Links\admin_index.ctp:69
+#: \View\Messages\admin_index.ctp:66
+#: \View\Nodes\admin_index.ctp:80
+msgid "Submit"
+msgstr "שלח"
+
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:6
+#: \Plugin\Photon\View_cochav\elements\admin_menu.ctp:6
+#: \Plugin\Photon\View\Albums\admin_index.ctp:6
+#: \Plugin\Photon\View\Elements\admin_menu.ctp:4
+msgid "New album"
+msgstr "קטגוריה חדשה"
+
+#: \Plugin\Photon\View_cochav\albums\admin_index.ctp:23
+#: \Plugin\Photon\View\Albums\admin_index.ctp:23
+msgid "Photos in album"
+msgstr "פריטים בקטגוריה"
+
+#: \Plugin\Photon\View_cochav\elements\admin_menu.ctp:1
+#: \Plugin\Photon\View\Elements\admin_menu.ctp:1
+msgid "Photon Gallery"
+msgstr "פריטים בקטגוריה"
+
+#: \Plugin\Photon\View_cochav\elements\admin_menu.ctp:4
+#: \Plugin\Photon\View\Elements\admin_menu.ctp:3
+msgid "List albums"
+msgstr "רשימת קטגוריות"
+
+#: \Plugin\Photon\View_cochav\elements\admin_menu.ctp:8
+#: \Plugin\Photon\View\Elements\admin_menu.ctp:5
+msgid "List photos"
+msgstr "רשימת פריטים"
+
+#: \Plugin\Photon\View_cochav\elements\admin_menu.ctp:10
+#: \Plugin\Photon\View\Elements\admin_menu.ctp:6
+msgid "Gallery settings"
+msgstr ""
+
+#: \Plugin\Photon\View_cochav\elements\albumsgallery.ctp:13
+#: \Plugin\Photon\View\Albums\index.ctp:13
+msgid "No albums found."
+msgstr ""
+
+#: \Plugin\Seo\Config\bootstrap.php:32
+#: \Plugin\Seo\View\Elements\admin_menu.ctp:1
+msgid "SEO/OM"
+msgstr ""
+
+#: \Plugin\Seo\Config\bootstrap.php:37
+#: \Plugin\Seo\View\Elements\admin_menu.ctp:3
+msgid "General Options"
+msgstr "אפשרויות כללי"
+
+#: \Plugin\Seo\Config\bootstrap.php:42
+msgid "Google Options"
+msgstr " אפשרויות גוגל"
+
+#: \Plugin\Seo\Config\bootstrap.php:47
+msgid "Twitter Options"
+msgstr "אפשרויות טוויטר"
+
+#: \Plugin\Seo\Config\bootstrap.php:52
+msgid "Facebook Options"
+msgstr "אפשרויות פייסבוק"
+
+#: \Plugin\Seo\Controller\SeoController.php:73
+msgid "SEO/OM - General Options"
+msgstr "אפשרויות כלליות SEO"
+
+#: \Plugin\Seo\Controller\SeoController.php:80
+msgid "SEO/OM Options have been saved"
+msgstr "נשמר"
+
+#: \Plugin\Seo\Controller\SeoController.php:87
+msgid "SEO/OM - Twitter Settings"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:95
+msgid "SEO/OM Twitter Options have been saved"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:102
+msgid "SEO/OM - Facebook Settings"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:110
+msgid "SEO/OM Facebook Options have been saved"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:117
+msgid "SEO/OM - Google Settings"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:125
+msgid "SEO/OM Google Options have been saved"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:152;163
+msgid "Sitemap"
+msgstr "מפת אתר"
+
+#: \Plugin\Seo\Controller\SeoController.php:304
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:29
+msgid "Duplicate Titles"
+msgstr "שכפל כותרת"
+
+#: \Plugin\Seo\Controller\SeoController.php:333
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:33
+msgid "Pages without Taxonomy"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:352
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:37
+msgid "Pages without META Keywords"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:373
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:41
+msgid "Pages without META Descriptions"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:396
+msgid "SEO/OM - Twitter Post"
+msgstr ""
+
+#: \Plugin\Seo\Controller\SeoController.php:472
+msgid "META tags updated"
+msgstr ""
+
+#: \Plugin\Seo\View\Elements\admin_menu.ctp:7
+msgid "Google Settings"
+msgstr ""
+
+#: \Plugin\Seo\View\Elements\admin_menu.ctp:14
+msgid "Twitter Settings"
+msgstr ""
+
+#: \Plugin\Seo\View\Elements\admin_menu.ctp:21
+msgid "Facebook Settings"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:18
+msgid "Page Stats"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:21
+msgid "Total Published Pages"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:25
+msgid "Date of Last Publish"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:48;64
+msgid "Total"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:52
+msgid "Approved"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:56
+msgid "Pending"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:68
+#: \View\Messages\admin_index.ctp:5
+msgid "Read"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:72
+#: \View\Messages\admin_index.ctp:4
+msgid "Unread"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:82
+msgid "Alexa"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:86
+msgid "Bing Webmaster Tools"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:90
+msgid "Blogger"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:94
+msgid "Facebook"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:98
+msgid "Google Analytics"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:102
+msgid "Google Adwords"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:106
+msgid "Google Places Listing"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:110
+msgid "Google Plus Listing"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:114
+msgid "Google Webmaster Tools"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_dashboard.ctp:118
+msgid "Twitter"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_duplicate_titles.ctp:60
+#: \Plugin\Seo\View\Seo\admin_no_description.ctp:60
+#: \Plugin\Seo\View\Seo\admin_no_keywords.ctp:60
+#: \Plugin\Seo\View\Seo\admin_no_taxonomy.ctp:60
+#: \View\Blocks\admin_index.ctp:47
+#: \View\Comments\admin_index.ctp:70
+#: \View\Links\admin_index.ctp:63
+#: \View\Nodes\admin_index.ctp:71
+msgid "Publish"
+msgstr "פרסום"
+
+#: \Plugin\Seo\View\Seo\admin_duplicate_titles.ctp:61
+#: \Plugin\Seo\View\Seo\admin_no_description.ctp:61
+#: \Plugin\Seo\View\Seo\admin_no_keywords.ctp:61
+#: \Plugin\Seo\View\Seo\admin_no_taxonomy.ctp:61
+#: \View\Blocks\admin_index.ctp:48
+#: \View\Comments\admin_index.ctp:71
+#: \View\Links\admin_index.ctp:64
+#: \View\Nodes\admin_index.ctp:72
+msgid "Unpublish"
+msgstr "הורדה מפרסום"
+
+#: \Plugin\Seo\View\Seo\admin_duplicate_titles.ctp:62
+#: \Plugin\Seo\View\Seo\admin_no_description.ctp:62
+#: \Plugin\Seo\View\Seo\admin_no_keywords.ctp:62
+#: \Plugin\Seo\View\Seo\admin_no_taxonomy.ctp:62
+#: \View\Nodes\admin_index.ctp:73
+msgid "Promote"
+msgstr "קידום"
+
+#: \Plugin\Seo\View\Seo\admin_duplicate_titles.ctp:63
+#: \Plugin\Seo\View\Seo\admin_no_description.ctp:63
+#: \Plugin\Seo\View\Seo\admin_no_keywords.ctp:63
+#: \Plugin\Seo\View\Seo\admin_no_taxonomy.ctp:63
+#: \View\Nodes\admin_index.ctp:74
+msgid "Unpromote"
+msgstr "הורדה מקידום"
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:32
+msgid "Google Stats"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:35
+msgid "Google Page Rank"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:39
+msgid "Google Backlinks"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:43
+msgid "Google Page Speed"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:47
+msgid "Alexa Stats"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:50
+msgid "Alexa Global Rank"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:54
+msgid "Alexa Pageviews"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:58
+msgid "Alexa Reach"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:62
+msgid "Alexa Bounce Rate"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:66
+msgid "Alexa Time On Site"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:70
+msgid "Alexa Search Visits"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:74
+msgid "Alexa Average Load Time"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:78
+msgid "Mentions"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:81
+msgid "Google Mentions"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:85
+msgid "Facebook Mentions"
+msgstr ""
+
+#: \Plugin\Seo\View\Seo\admin_nodestats.ctp:89
+msgid "Twitter Mentions"
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:44;95
+msgid "Invalid ID."
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:53;179
+msgid "Invalid model."
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:64;130;190
+msgid "Invalid record."
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:71
+msgid "Translations: %s"
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:137
+msgid "Translate content: %s (%s)"
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:144
+msgid "Record has been translated"
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:151
+msgid "Record could not be translated. Please, try again."
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:170
+msgid "Invalid Locale or ID"
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:205
+msgid "Translation for the locale deleted successfully."
+msgstr ""
+
+#: \Plugin\Translate\Controller\TranslateController.php:207
+msgid "Translation for the locale could not be deleted."
+msgstr ""
+
+#: \Plugin\Translate\View\Translate\admin_edit.ctp:17
+msgid "Record"
+msgstr "רשומה"
+
+#: \Plugin\Translate\View\Translate\admin_index.ctp:8
+#: \View\Nodes\admin_translations.ctp:8
+msgid "Translate in a new language"
+msgstr ""
+
+#: \Plugin\Translate\View\Translate\admin_index.ctp:59
+#: \View\Nodes\admin_translations.ctp:52
+msgid "No translations available."
+msgstr ""
+
+#: \Test\Case\Controller\LanguagesControllerTest.php:208;239
+msgid "Could not add a new language."
+msgstr ""
+
+#: \View\Attachments\admin_browse.ctp:6
+msgid "New Attachment"
+msgstr ""
+
+#: \View\Attachments\admin_browse.ctp:50
+msgid "Insert"
+msgstr "הכנסה"
+
+#: \View\Attachments\admin_edit.ctp:6
+msgid "Attachment"
+msgstr "צירוף"
+
+#: \View\Attachments\admin_edit.ctp:7
+msgid "Info"
+msgstr "מידע"
+
+#: \View\Attachments\admin_edit.ctp:27
+msgid "Caption"
+msgstr ""
+
+#: \View\Attachments\admin_edit.ctp:34
+msgid "File URL"
+msgstr ""
+
+#: \View\Attachments\admin_edit.ctp:35
+msgid "Mime Type"
+msgstr ""
+
+#: \View\Blocks\admin_add.ctp:6
+#: \View\Blocks\admin_edit.ctp:6
+msgid "Block"
+msgstr ""
+
+#: \View\Blocks\admin_add.ctp:7
+#: \View\Blocks\admin_edit.ctp:7
+#: \View\Links\admin_add.ctp:8
+#: \View\Links\admin_edit.ctp:8
+#: \View\Nodes\admin_add.ctp:11
+#: \View\Nodes\admin_edit.ctp:11
+msgid "Access"
+msgstr "גישה"
+
+#: \View\Blocks\admin_add.ctp:8
+#: \View\Blocks\admin_edit.ctp:8
+msgid "Visibilities"
+msgstr "נראות"
+
+#: \View\Blocks\admin_add.ctp:9
+#: \View\Blocks\admin_edit.ctp:9
+#: \View\Settings\admin_view.ctp:34
+#: \View\Types\admin_add.ctp:10
+#: \View\Types\admin_edit.ctp:10
+msgid "Params"
+msgstr "פרמטרים"
+
+#: \View\Blocks\admin_add.ctp:17
+#: \View\Blocks\admin_edit.ctp:18
+msgid "unique name for your block"
+msgstr ""
+
+#: \View\Blocks\admin_add.ctp:18
+#: \View\Blocks\admin_edit.ctp:19
+msgid "if you are not sure, choose 'none'"
+msgstr ""
+
+#: \View\Blocks\admin_add.ctp:36
+#: \View\Blocks\admin_edit.ctp:37
+msgid "Enter one URL per line. Leave blank if you want this Block to appear in all pages."
+msgstr ""
+
+#: \View\Blocks\admin_add.ctp:55
+#: \View\Blocks\admin_edit.ctp:57
+#: \View\Nodes\admin_add.ctp:105
+#: \View\Nodes\admin_edit.ctp:100
+msgid "Apply"
+msgstr "שגר"
+
+#: \View\Comments\admin_edit.ctp:7
+msgid "Contact Info"
+msgstr ""
+
+#: \View\Comments\rss\index.ctp:16
+msgid "Comment on"
+msgstr ""
+
+#: \View\Common\admin_edit.ctp:8
+msgid "Add"
+msgstr "הוספה"
+
+#: \View\Common\admin_index.ctp:25
+#: \View\Links\admin_index.ctp:4
+msgid "New %s"
+msgstr ""
+
+#: \View\Contacts\admin_add.ctp:6
+#: \View\Contacts\admin_edit.ctp:6
+#: \View\Themed\elegant\Contacts\admin_add.ctp:7
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:7
+msgid "Contact"
+msgstr ""
+
+#: \View\Contacts\admin_add.ctp:7
+#: \View\Contacts\admin_edit.ctp:7
+#: \View\Themed\elegant\Contacts\admin_add.ctp:8
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:8
+msgid "Details"
+msgstr ""
+
+#: \View\Contacts\admin_add.ctp:8
+#: \View\Contacts\admin_edit.ctp:8
+#: \View\Contacts\view.ctp:20
+#: \View\Themed\elegant\Contacts\admin_add.ctp:9
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:9
+#: \View\Themed\elegant\Contacts\view.ctp:21
+msgid "Message"
+msgstr "הודעה"
+
+#: \View\Contacts\admin_add.ctp:39
+#: \View\Contacts\admin_edit.ctp:40
+#: \View\Themed\elegant\Contacts\admin_add.ctp:40
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:41
+msgid "Let users leave a message"
+msgstr ""
+
+#: \View\Contacts\admin_add.ctp:42
+#: \View\Contacts\admin_edit.ctp:43
+#: \View\Themed\elegant\Contacts\admin_add.ctp:43
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:44
+msgid "Save messages in database"
+msgstr ""
+
+#: \View\Contacts\admin_add.ctp:45
+#: \View\Contacts\admin_edit.ctp:46
+#: \View\Themed\elegant\Contacts\admin_add.ctp:46
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:47
+msgid "Notify by email instantly"
+msgstr ""
+
+#: \View\Contacts\admin_add.ctp:48
+#: \View\Contacts\admin_edit.ctp:49
+#: \View\Themed\elegant\Contacts\admin_add.ctp:49
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:50
+#: \View\Types\admin_add.ctp:56
+msgid "Spam protection (requires Akismet API key)"
+msgstr ""
+
+#: \View\Contacts\admin_add.ctp:51
+#: \View\Contacts\admin_edit.ctp:52
+#: \View\Themed\elegant\Contacts\admin_add.ctp:52
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:53
+#: \View\Types\admin_add.ctp:59
+msgid "Use captcha? (requires Recaptcha API key)"
+msgstr ""
+
+#: \View\Contacts\admin_add.ctp:56
+#: \View\Contacts\admin_edit.ctp:57
+#: \View\Themed\elegant\Contacts\admin_add.ctp:57
+#: \View\Themed\elegant\Contacts\admin_edit.ctp:58
+#: \View\Types\admin_add.ctp:65
+#: \View\Types\admin_edit.ctp:65
+msgid "You can manage your API keys here."
+msgstr ""
+
+#: \View\Contacts\view.ctp:17
+#: \View\Themed\elegant\Contacts\view.ctp:18
+msgid "Your name"
+msgstr ""
+
+#: \View\Contacts\view.ctp:18
+#: \View\Themed\elegant\Contacts\view.ctp:19
+msgid "Your email"
+msgstr ""
+
+#: \View\Contacts\view.ctp:19
+#: \View\Themed\elegant\Contacts\view.ctp:20
+msgid "Subject"
+msgstr "נושא"
+
+#: \View\Contacts\view.ctp:24
+msgid "Send"
+msgstr "שליחה"
+
+#: \View\Elements\comment.ctp:13
+#: \View\Themed\elegant\Elements\comment.ctp:13
+msgid "said on %s"
+msgstr ""
+
+#: \View\Elements\comment.ctp:19
+#: \View\Themed\elegant\Elements\comment.ctp:20
+msgid "Reply"
+msgstr ""
+
+#: \View\Elements\comments_form.ctp:2
+msgid "Add new comment"
+msgstr ""
+
+#: \View\Elements\comments_form.ctp:7
+#: \View\Themed\elegant\Elements\comments_form.ctp:7
+msgid "Go back to original post"
+msgstr ""
+
+#: \View\Elements\comments_form.ctp:28;40
+#: \View\Themed\elegant\Elements\comments_form.ctp:28;41
+msgid "Email"
+msgstr "דואר אלקטרוני"
+
+#: \View\Elements\comments_form.ctp:33;41
+#: \View\Themed\elegant\Elements\comments_form.ctp:33;42
+msgid "Website"
+msgstr ""
+
+#: \View\Elements\comments_form.ctp:48
+msgid "Post comment"
+msgstr ""
+
+#: \View\Elements\node_info.ctp:6
+#: \View\Themed\elegant\Elements\node_info.ctp:6
+msgid "Posted"
+msgstr ""
+
+#: \View\Elements\node_info.ctp:20
+#: \View\Themed\elegant\Elements\node_info.ctp:20
+msgid "on"
+msgstr "פתוח"
+
+#: \View\Elements\node_more_info.ctp:17
+#: \View\Themed\elegant\Elements\node_more_info.ctp:18
+msgid "Posted in"
+msgstr ""
+
+#: \View\Elements\node_more_info.ctp:28
+#: \View\Themed\elegant\Elements\node_more_info.ctp:29
+msgid "Leave a comment"
+msgstr ""
+
+#: \View\Elements\search.ctp:24
+#: \View\Elements\admin\nodes_filter.ctp:51
+#: \View\Themed\elegant\Elements\admin\nodes_filter.ctp:51
+msgid "Search"
+msgstr "חיפוש"
+
+#: \View\Elements\admin\footer.ctp:2
+#: \View\Themed\elegant\Elements\admin\footer.ctp:2
+msgid "Croogo %s"
+msgstr ""
+
+#: \View\Elements\admin\header.ctp:7
+#: \View\Themed\elegant\Elements\admin\header.ctp:7
+msgid "Visit website"
+msgstr "לאתר"
+
+#: \View\Elements\admin\header.ctp:13
+#: \View\Themed\elegant\Elements\admin\header.ctp:13
+msgid "You are logged in as: %s"
+msgstr "הינך מחובר כ:%s"
+
+#: \View\Elements\admin\header.ctp:15
+#: \View\Themed\elegant\Elements\admin\header.ctp:15
+msgid "Log out"
+msgstr "יציאה מהמערכת"
+
+#: \View\Elements\admin\nodes_filter.ctp:27
+#: \View\Themed\elegant\Elements\admin\nodes_filter.ctp:27
+msgid "Unpublished"
+msgstr ""
+
+#: \View\Elements\admin\nodes_filter.ctp:37
+#: \View\Themed\elegant\Elements\admin\nodes_filter.ctp:37
+msgid "Promoted"
+msgstr ""
+
+#: \View\Elements\admin\nodes_filter.ctp:39
+#: \View\Themed\elegant\Elements\admin\nodes_filter.ctp:39
+msgid "Yes"
+msgstr "כן"
+
+#: \View\Elements\admin\nodes_filter.ctp:40
+#: \View\Themed\elegant\Elements\admin\nodes_filter.ctp:40
+msgid "No"
+msgstr "לא"
+
+#: \View\Elements\admin\nodes_filter.ctp:54
+#: \View\Themed\elegant\Elements\admin\nodes_filter.ctp:54
+msgid "Filter"
+msgstr "סינון"
+
+#: \View\Emails\text\comment.ctp:2
+msgid "A new comment has been posted under: %s"
+msgstr ""
+
+#: \View\Emails\text\comment.ctp:6
+#: \View\Emails\text\contact.ctp:8
+msgid "Name: %s"
+msgstr ""
+
+#: \View\Emails\text\comment.ctp:7
+#: \View\Emails\text\contact.ctp:9
+msgid "Email: %s"
+msgstr ""
+
+#: \View\Emails\text\comment.ctp:8
+msgid "Website: %s"
+msgstr ""
+
+#: \View\Emails\text\comment.ctp:9
+#: \View\Emails\text\contact.ctp:11
+#: \View\Emails\text\forgot_password.ctp:17
+msgid "IP Address: %s"
+msgstr ""
+
+#: \View\Emails\text\comment.ctp:10
+msgid "Comment: %s"
+msgstr ""
+
+#: \View\Emails\text\contact.ctp:7
+msgid "You have received a new message at: %s"
+msgstr ""
+
+#: \View\Emails\text\contact.ctp:10
+msgid "Subject: %s"
+msgstr ""
+
+#: \View\Emails\text\contact.ctp:12
+msgid "Message: %s"
+msgstr ""
+
+#: \View\Emails\text\forgot_password.ctp:1
+#: \View\Emails\text\register.ctp:1
+msgid "Hello %s"
+msgstr ""
+
+#: \View\Emails\text\forgot_password.ctp:10
+msgid "Please visit this link to reset your password: %s"
+msgstr ""
+
+#: \View\Emails\text\forgot_password.ctp:14
+msgid "If you did not request a password reset, then please ignore this email."
+msgstr ""
+
+#: \View\Emails\text\register.ctp:10
+msgid "Please visit this link to activate your account: %s"
+msgstr ""
+
+#: \View\Errors\missing_action.ctp:1
+#: \View\Errors\missing_controller.ctp:1
+#: \View\Errors\security.ctp:1
+msgid "Page not found"
+msgstr "דף לא נמצא"
+
+#: \View\Errors\missing_action.ctp:2
+#: \View\Errors\missing_controller.ctp:2
+msgid "Error"
+msgstr "בעייה"
+
+#: \View\Errors\missing_action.ctp:4
+#: \View\Errors\missing_controller.ctp:4
+#: \View\Errors\security.ctp:4
+msgid "The requested address was not found on this server."
+msgstr ""
+
+#: \View\Errors\security.ctp:2
+msgid "Security Error"
+msgstr "בעיית אבטחה"
+
+#: \View\Filemanager\admin_browse.ctp:4
+msgid "Upload here"
+msgstr "העלאה"
+
+#: \View\Filemanager\admin_browse.ctp:5
+msgid "Create directory"
+msgstr ""
+
+#: \View\Filemanager\admin_browse.ctp:6
+msgid "Create file"
+msgstr ""
+
+#: \View\Filemanager\admin_browse.ctp:11
+#: \View\Filemanager\admin_create_directory.ctp:6
+#: \View\Filemanager\admin_create_file.ctp:6
+#: \View\Filemanager\admin_editfile.ctp:6
+#: \View\Filemanager\admin_upload.ctp:5
+msgid "You are here:"
+msgstr ""
+
+#: \View\Filemanager\admin_browse.ctp:25
+msgid "Directory content"
+msgstr ""
+
+#: \View\Filemanager\admin_browse.ctp:33
+msgid "Open"
+msgstr "פתיחה"
+
+#: \View\Helper\LayoutHelper.php:718
+#: \View\Settings\admin_view.ctp:9
+msgid "Key"
+msgstr ""
+
+#: \View\Helper\LayoutHelper.php:722
+#: \View\Settings\admin_view.ctp:14
+msgid "Value"
+msgstr "ערך"
+
+#: \View\Languages\admin_add.ctp:6
+#: \View\Languages\admin_edit.ctp:6
+msgid "Language"
+msgstr ""
+
+#: \View\Languages\admin_select.ctp:6
+msgid "New Language"
+msgstr ""
+
+#: \View\Layouts\admin_login.ctp:21
+msgid "Back to"
+msgstr ""
+
+#: \View\Layouts\maintenance.ctp:13
+msgid "Site down for maintenance."
+msgstr ""
+
+#: \View\Links\admin_add.ctp:7
+#: \View\Links\admin_edit.ctp:7
+msgid "Link"
+msgstr "קישור"
+
+#: \View\Links\admin_add.ctp:9
+#: \View\Links\admin_edit.ctp:9
+#: \View\Menus\admin_add.ctp:7
+#: \View\Menus\admin_edit.ctp:7
+#: \View\Settings\admin_add.ctp:7
+#: \View\Settings\admin_edit.ctp:7
+msgid "Misc."
+msgstr "שונות"
+
+#: \View\Links\admin_add.ctp:17
+#: \View\Links\admin_edit.ctp:18
+msgid "Parent"
+msgstr "הורה"
+
+#: \View\Links\admin_add.ctp:23
+#: \View\Links\admin_edit.ctp:24
+msgid "Link to a Node"
+msgstr "חבר לדף תוכן"
+
+#: \View\Links\admin_index.ctp:30
+msgid "Status"
+msgstr "סטטוס"
+
+#: \View\Menus\admin_add.ctp:6
+#: \View\Menus\admin_edit.ctp:6
+msgid "Menu"
+msgstr "תפריט"
+
+#: \View\Menus\admin_index.ctp:16
+msgid "View links"
+msgstr "קישורים"
+
+#: \View\Messages\admin_index.ctp:60
+msgid "Mark as read"
+msgstr ""
+
+#: \View\Messages\admin_index.ctp:61
+msgid "Mark as unread"
+msgstr ""
+
+#: \View\Nodes\admin_add.ctp:8
+#: \View\Nodes\admin_edit.ctp:8
+msgid "Terms"
+msgstr "מושגים"
+
+#: \View\Nodes\admin_add.ctp:10
+#: \View\Nodes\admin_edit.ctp:10
+msgid "Custom fields"
+msgstr ""
+
+#: \View\Nodes\admin_add.ctp:12
+#: \View\Nodes\admin_edit.ctp:12
+msgid "Publishing"
+msgstr ""
+
+#: \View\Nodes\admin_add.ctp:48
+#: \View\Nodes\admin_edit.ctp:51
+#: \View\Types\admin_add.ctp:42
+#: \View\Types\admin_edit.ctp:43
+msgid "Disabled"
+msgstr "מנוטרל"
+
+#: \View\Nodes\admin_add.ctp:49
+#: \View\Nodes\admin_edit.ctp:52
+#: \View\Types\admin_add.ctp:43
+#: \View\Types\admin_edit.ctp:44
+msgid "Read only"
+msgstr "צפייה בלבד"
+
+#: \View\Nodes\admin_add.ctp:50
+#: \View\Nodes\admin_edit.ctp:53
+#: \View\Types\admin_add.ctp:44
+#: \View\Types\admin_edit.ctp:45
+msgid "Read/Write"
+msgstr ""
+
+#: \View\Nodes\admin_add.ctp:73
+#: \View\Nodes\admin_edit.ctp:74
+msgid "Add another field"
+msgstr ""
+
+#: \View\Nodes\admin_add.ctp:92
+#: \View\Nodes\admin_edit.ctp:89
+msgid "Promoted to front page"
+msgstr ""
+
+#: \View\Nodes\admin_index.ctp:84
+msgid "%s selected items?"
+msgstr ""
+
+#: \View\Nodes\admin_links.ctp:24
+msgid "Sort by:"
+msgstr "מיין לפי:"
+
+#: \View\Nodes\index.ctp:4
+#: \View\Nodes\promoted.ctp:4
+#: \View\Nodes\search.ctp:6
+#: \View\Nodes\term.ctp:6
+#: \View\Themed\elegant\Nodes\promoted.ctp:4
+msgid "No items found."
+msgstr "לא נמצאו פריטים"
+
+#: \View\Roles\admin_add.ctp:6
+#: \View\Roles\admin_edit.ctp:6
+msgid "Role"
+msgstr ""
+
+#: \View\Settings\admin_add.ctp:12
+#: \View\Settings\admin_edit.ctp:13
+msgid "e.g., 'Site.title'"
+msgstr ""
+
+#: \View\Settings\admin_add.ctp:21
+#: \View\Settings\admin_edit.ctp:22
+msgid "e.g., 'text' or 'textarea'"
+msgstr ""
+
+#: \View\Settings\admin_view.ctp:2
+msgid "Setting"
+msgstr "הגדרות"
+
+#: \View\Settings\admin_view.ctp:24
+msgid "Input Type"
+msgstr ""
+
+#: \View\Settings\admin_view.ctp:29
+msgid "Weight"
+msgstr "משקל"
+
+#: \View\Settings\admin_view.ctp:44
+msgid "Delete Setting"
+msgstr ""
+
+#: \View\Settings\admin_view.ctp:44
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: \View\Settings\admin_view.ctp:45
+msgid "List Settings"
+msgstr ""
+
+#: \View\Settings\admin_view.ctp:46
+msgid "New Setting"
+msgstr ""
+
+#: \View\Terms\admin_add.ctp:15
+#: \View\Terms\admin_edit.ctp:10
+msgid "Term"
+msgstr ""
+
+#: \View\Terms\admin_index.ctp:4
+msgid "New Term"
+msgstr ""
+
+#: \View\Terms\admin_index.ctp:28
+msgid "Slug"
+msgstr ""
+
+#: \View\Themed\elegant\Contacts\admin_index.ctp:6
+msgid "New Contact"
+msgstr ""
+
+#: \View\Themed\elegant\Elements\comments_form.ctp:2
+msgid "Add New Comment"
+msgstr ""
+
+#: \View\Types\admin_add.ctp:8
+#: \View\Types\admin_edit.ctp:8
+msgid "Format"
+msgstr ""
+
+#: \View\Types\admin_add.ctp:31
+#: \View\Types\admin_edit.ctp:32
+msgid "Show author's name"
+msgstr ""
+
+#: \View\Types\admin_add.ctp:34
+#: \View\Types\admin_edit.ctp:35
+msgid "Show date"
+msgstr ""
+
+#: \View\Users\admin_add.ctp:6
+msgid "User"
+msgstr "משתמש"
+
+#: \View\Users\admin_edit.ctp:3
+#: \View\Users\admin_reset_password.ctp:2
+msgid "Reset password"
+msgstr "איפוס סיסמא"
+
+#: \View\Users\admin_login.ctp:10
+msgid "Forgot password?"
+msgstr "שכחת סיסמא?"
+
+#: \View\Users\admin_login.ctp:17
+msgid "Log In"
+msgstr "כניסה"
+
+#: \View\Users\admin_reset_password.ctp:15
+msgid "Reset"
+msgstr "איפוס"
+
+#: \View\Users\index.ctp:4
+msgid "You are currently logged in as:"
+msgstr ""
+
+#: \View\Users\login.ctp:2
+msgid "Login"
+msgstr "כניסה"
+
+#: \View\Users\reset.ctp:6
+msgid "New password"
+msgstr "סיסמא חדשה"
+
+#: \View\Vocabularies\admin_add.ctp:7
+#: \View\Vocabularies\admin_edit.ctp:6
+msgid "Vocabulary"
+msgstr ""
+
+#: \View\Vocabularies\admin_add.ctp:8
+#: \View\Vocabularies\admin_edit.ctp:7
+msgid "Options"
+msgstr "אפשרויות"
+
+#: \View\Vocabularies\admin_index.ctp:15
+msgid "View terms"
+msgstr ""
+
+#: \Plugin\Photon\View\Albums\index.ctp:27
+msgid "view album"
+msgstr "קטגוריה"
+
+#: \Plugin\Photon\View\Elements\image.ctp:11
+#: \Plugin\Photon\View_cochav\elements\image.ctp:11
+msgid "No photo found"
+msgstr "פריטים לא נמצאו"
+
+#: \webroot\test.php:87
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+msgid "Before you can add any pictures, you first have to save your new node. Afterwards, just hit 'Edit' and there you go!"
+msgstr "כדי להעלות תמונות, יש לשמור תחילה את המאמר, לאחר מכן, לבחור בעריכה ולהעלות את התמונות"
+msgid "Images cannot be uploaded right now..."
+msgstr "לא ניתן להעלות כרגע תמונות..."
+msgid "Images"
+msgstr "תמונות"
+msgid "Picture"
+msgstr "תמונה"
+msgid "Embedding"
+msgstr "השמה"
+msgid "Slug"
+msgstr "(URL) שם לתצוגה בכתובת הדף"
+msgid "Excerpt"
+msgstr "תאור קצר"
+msgid "Body"
+msgstr "תוכן"
+msgid "Pictures for this album:"
+msgstr "פריטי הקטגוריה:"
+msgid "Every node has got its private gallery album. Everytime you upload an image in this tab, it will be appended to this album. To show the whole album in your node, paste the following code at the location of your choice (of course this works in other nodes as well):"
+msgstr "  "
+msgid "Change photo"
+msgstr "החלפת תמונה"
+msgid "Add new photos"
+msgstr "הוספת תמונות"
+msgid "Pictures for this node:"
+msgstr "תמונות הקשורות למאמר:"
+msgid "Term1_hashani"
+msgstr "חומר השלט"
+msgid "term1_hashani"
+msgstr "חומר שלט"
+msgid "Term1_ortal"
+msgstr "חומר"
+msgid "term1_ortal"
+msgstr "חומר"
+msgid "term2_hashani" 
+msgstr "מיקום/לקוח"
+msgid "term3_hashani"
+msgstr "חומר עמוד"
+msgid "term2_ortal"
+msgstr "גודל"
+msgid "term3_ortal"
+msgstr "מחיר"
+msgid "item_code_hashani"
+msgstr "מק'ט"
+msgid "item_code_ortal"
+msgstr "מק'ט"
+msgid "description_hashani"
+msgstr "תאור"
+msgid "description_ortal" 
+msgstr "תאור"
+msgid "Item Code"
+msgstr "מק'ט"
+msgid "Upload a file"
+msgstr "העלאת תמונה"
+msgid "description"
+msgstr "תאור"
+msgid "Username"
+msgstr "שם משתמש"
+msgid "Password"
+msgstr "סיסמא"
+msgid "List"
+msgstr "רשימה"
+msgid "Create"
+msgstr "חדש"
+msgid "Contact"
+msgstr "צור קשר"
+msgid "About"
+msgstr "אודות"
+msgid "Home"
+msgid "I am intersted in this product"
+msgstr "המוצר מעניין אותי"
+msgid "What's in your Shopping Cart?"
+msgstr "רשימת המוצרים שמעניינים אותי"
+msgid "Product"
+msgstr "שם המוצר"
+msgid "Amount"
+msgstr "כמות"
+msgid "Request Quate"
+msgstr "הצעת מחיר"
+msgid "Email"
+msgstr "דואר אלקטרוני"
+msgid "Phone"
+msgstr "טלפון להתקשרות איתך"
+msgid "Email_quate"
+msgstr "דואר אלקטרוני למשלוח ההצעה"
+msgid "Phone_quate"
+msgstr "טלפון לבירורים"
+msgid "Subject"
+msgstr "נושא"
+msgid "Send"
+msgstr "שלח"
+msgid "Ask for Quate"
+msgstr "קבל הצעה"
+msgid "This field cannot be left blank."
+msgstr "נא למלא את השדה"
+msgid "Please provide a valid email address."
+msgstr "האי מייל שהוכנס ריק או אינו תקין"
+msgid "Home Page"
+msgstr "דף הבית"
+msgid "Back to Shopping"
+msgstr "חזרה לקטלוג"
+msgid "Response From:"
+msgstr "מענה מ"
+msgid "Read More..."
+msgstr "להמשך המאמר..."
+msgid "Close"
+msgstr "סגור"
+msgid "Width"
+msgstr "רוחב"
+msgid "Height"
+msgstr "גובה"
+msgid "Quate through email"
+msgstr "הצעת מחיר דרך אי מייל"
+msgid "Change Size"
+msgstr "שנה גודל"
+msgid "Yard"
+msgstr "מטר"
+msgid "Add a Quate"
+msgstr "מבקש הצעת מחיר"
+msgid "Upload Picture"
+msgstr "העלאת תמונה"
+msgid "Upload Photo"
+msgstr "העלה צילום"
+msgid "Personal Design"
+msgstr "עיצוב אישי"
+msgid "Save/Send/Share"
+msgstr "שמור/שלח/שתף"
+msgid "What do you think about the painting?"
+msgstr "מה דעתכם על התמונה?"
+msgid "Share"
+msgstr "שתף"
+msgid "To"
+msgstr "עבור(שם)"
+msgid "Add Comments"
+msgstr "הוסף הוראות"
+msgid "Add Comment"
+msgstr "הוסף הוראות"
+msgid "This action might take some time."
+msgstr "פעולה זו עשויה להמשך מספר דקות."
+msgid "Your email is on its way"
+msgstr "האימייל בדרך אליך"
+msgid "Quate Request"
+msgstr "בקשה להצעת מחיר"

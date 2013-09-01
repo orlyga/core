@@ -1,0 +1,103 @@
+* { 
+font-family:  arial, verdana; 
+} 
+
+body{direction:rtl;} 
+table tr th { 
+text-align:right; 
+} 
+
+div.actions ul { 
+float:right; 
+} 
+
+div.actions { 
+padding:0 0 50px; 
+} 
+
+div.actions ul li { 
+float:right; 
+margin:0  0 0 10px; 
+padding:0; 
+} 
+
+div.actions ul li a { 
+float:right; 
+margin-left:10px; 
+margin-right:0px; 
+} 
+
+#nav ul li, #nav ul li a { 
+float:right; 
+} 
+
+#nav ul li span.ui-icon { 
+right:2px; 
+margin:-8px 0 0; 
+position:absolute; 
+top:16px; 
+} 
+
+/************************i hope that u corect this hack in 
+css********************************************************************/ 
+/*********supersubs.js line:76***********var offsetDirection = 
+$childUl.css('left')!==undefined ? 'right' : 
+'left';********************/ 
+#nav ul li a { 
+padding:10px 20px 11px 20px; 
+text-decoration:none; 
+margin-left:0; 
+margin-right:0; 
+} 
+
+.sf-menu ul { 
+right:0; 
+} 
+
+#nav li li a.has-ul { 
+background-image:url(../img/icons/bullet_arrow_left.png); 
+background-position:left center; 
+background-repeat:no-repeat; 
+} 
+
+
+div.radio label {float:right;width:auto;width: auto;padding: 4px;margin-top: -10px;} 
+div.radio input {float:right;margin-top:5px;} 
+dt {width:200px;clear:right;float:right;} 
+dd {float:right;} 
+label { 
+color:#464646; 
+font-family:"Lucida Grande",Verdana,Arial,"Bitstream Vera Sans",sans- 
+serif; 
+font-size:16px; 
+font-weight:bold; 
+margin:0 3px 0 5px ; 
+}
+ul.tabbed li, ul.sf-menu li {float: right;}  
+.left {float:right}
+.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12, .grid_13, .grid_14, .grid_15, .grid_16 {
+	float:right;
+}
+#content {float:left}
+#sidebar {float:right}
+#gallery {direction:ltr}
+#overlayer {direction:rtl}
+
+.ui-tabs .ui-tabs-nav li a , .ui-tabs .ui-tabs-nav li {float:right}
+ .inline {
+	float: right;
+padding-left: 1em;
+}
+th, td, caption {
+	text-align:right;
+}
+input[type="radio"] {
+
+float: right;
+margin-left: 10px;
+}
+.section h3, #overlayer h4 {
+margin-right: 0px;
+}
+body#tinymce.mceContentBody body  {direction: ltr}
+.navbar .nav{float:right}
